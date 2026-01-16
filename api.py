@@ -54,7 +54,7 @@ def get_all_data():
 
 
 # 🔹 Access ANY section by name
-@app.get("//mtech_popular_course_ME_Mtech/{section_name}")
+@app.get("/mtech_popular_course_ME_Mtech/{section_name}")
 def get_section_by_name(section_name: str):
     data = load_data()
     result = find_section(data, section_name)
