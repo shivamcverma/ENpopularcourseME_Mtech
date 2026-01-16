@@ -470,7 +470,7 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2259Colleges"
+              "college_count": "2257Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
@@ -478,7 +478,7 @@
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "823Colleges"
+              "college_count": "822Colleges"
             },
             {
               "specialization": "Structural Engineering",
@@ -502,7 +502,7 @@
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "554Colleges"
+              "college_count": "553Colleges"
             },
             {
               "specialization": "Communications Engineering",
@@ -1491,12 +1491,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Aerospace Engineering",
-        "Computer Science Engineering",
         "Civil Engineering",
-        "Chemical Engineering",
+        "Aerospace Engineering",
+        "Mechanical Engineering",
         "Electronics and Communication Engineering",
-        "Mechanical Engineering"
+        "Computer Science Engineering",
+        "Chemical Engineering"
       ],
       "top_colleges": [
         {
@@ -2116,7 +2116,12 @@
             }
           ],
           "videos_you_may_like": [],
-          "register_widget": {},
+          "register_widget": {
+            "image": "https://images.shiksha.ws/pwa/public/images/ir-image.svg",
+            "heading": "Staying updated about the latest educational events is just a click away",
+            "mobile_text": "Enter Mobile Number",
+            "button_text": "Register Now"
+          },
           "high_paid_jobs_table": [
             {
               "Rank": {
@@ -2235,271 +2240,271 @@
     "QAN": {
       "QA": {
         "tag_name": "M.Tech",
-        "description": "Get insights from 15.8k questions on M.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about M.Tech",
+        "description": "Get insights from 15.9k questions on M.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about M.Tech",
         "stats": {
-          "Questions": "15.8k",
+          "Questions": "15.9k",
           "Discussions": "2",
-          "Active Users": "146",
+          "Active Users": "135",
           "Followers": "13164"
         },
         "questions": [
           {
-            "question_text": "Does School Of Food Technology JNTU, Kakinada offer MTech?",
+            "question_text": "What is the seat intake for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech in Medical Devices course in 2026?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Jawaharlal Nehru Technological University, Kakinada",
-                "tag_url": "https://www.shiksha.com/university/jawaharlal-nehru-technological-university-kakinada-36793"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Sanjana Srivastava",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586496"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Yes, School Of Food Technology JNTU, Kakinada does offer M.Tech course. It is offered in full-time mode at the PG level. Students cna pursue the course in the Food Technology specialisation. For more details, students can visit the college's website.",
+                "answer_text": "According to the latest data on seat intake at National Institute of Pharmaceutical Education and Research, Guwahati, the M.Tech in Medical devices has a total number of seats at 16. However, the admissions for M.Tech in 2026 are not open yet. The aforementioned seat intake might be for the 2025 admissions. Candidates should check the seat intake for M.Tech at National Institute of Pharmaceutical Education and Research, Guwahati after the admissions are open.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "35 mins ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "What is the average package offered during Vinayaka Mission's Kirupananda Variyar Engineering College M.Tech placements?",
+            "question_text": "Which entrance exam is the easiest to clear for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Vinayaka Mission's Kirupananda Variyar Engineering College, Vinayaka Mission's Research Foundation",
-                "tag_url": "https://www.shiksha.com/college/vinayaka-mission-s-kirupananda-variyar-engineering-college-vinayaka-mission-s-research-foundation-salem-21468"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "diksha soni",
-                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The average package offered at Vinayaka Mission's Kirupananda Variyar Engineering College M.Tech placements is not out yet. However, the median package for M.Tech stood at INR 3.50 LPA. The table below presents the same: Particulars MTech Placement Statistics (2024) Median package INR 3.50 LPA",
+                "answer_text": "Looking at the cutoff data for each of the accepted entrance exams for M.Tech admissions, all three exams look equally competitve for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions. The three exams accepted for M.Tech admissions are GPAT, GATE and NIPER JEE. Aside from admissions, there are no other benefits of choosing one exam over another.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "Are M.Tech placements good at Vinayaka Mission's Kirupananda Variyar Engineering College?",
+            "question_text": "How can I choose the right M.Tech specialisation course at National Institute of Pharmaceutical Education and Research, Guwahati?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Vinayaka Mission's Kirupananda Variyar Engineering College, Vinayaka Mission's Research Foundation",
-                "tag_url": "https://www.shiksha.com/college/vinayaka-mission-s-kirupananda-variyar-engineering-college-vinayaka-mission-s-research-foundation-salem-21468"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "diksha soni",
-                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The key highlights recorded during Vinayaka Mission's Kirupananda Variyar Engineering College M.Tech Placements are given in the data tabulated below: Particulars MTech Placement Statistics (2024) Total Students 94 No. of Students Placed 36 Median Package INR 3.50 LPA",
+                "answer_text": "To choose the right M.Tech specialisations at National Institute of Pharmaceutical Education and Research, Guwahati, candidates need to look at several factors. These can include future job prospects, course fees, duration, personal interests and several others. Both courses of M.Tech at National Institute of Pharmaceutical Education and Research, Guwahati are capable of offering good return on investment for the csndidates.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "How much is the fees for M.Tech at MIT School of Computing?",
+            "question_text": "Are internships part of National Institute of Pharmaceutical Education and Research, Guwahati M.Tech curriculum?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "School of Computing",
-                "tag_url": "https://www.shiksha.com/tags/school-of-computing-tdp-2300601"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The total tuition fees for M.Tech at MIT School of Computing is INR 3.5 lakh . Aspirants must pay the fees to confirm their seat in the school. Candidates must pay the fees via the mode accepted by the school.",
+                "answer_text": "No, internships are not mentioned in the M.Tech curriculum of National Institute of Pharmaceutical Education and Research, Guwahati. Thus, it is being assumed that candidates are not expected to undergo any internships to complete the M.Tech curriculum. Despite this however, candidates should pursue some internships to improve their portfolio.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "Who can apply for M.Tech at MIT School of Computing?",
+            "question_text": "What documents are required for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "School of Computing",
-                "tag_url": "https://www.shiksha.com/tags/school-of-computing-tdp-2300601"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Aspirants must pass BTech (CSE/ IT) with a minimum of 50% aggregate to apply for M.Tech programme at MIT School of Computing. Engineering graduates with two-years of IT/ Software Industry experience can also apply for MTech. Aspirants must also have PERA CET or GATE scores for admission.",
+                "answer_text": "The applicants who are apply for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions will need digital copies of all documents requested from them at the time of admissions. Candidates will need to following documents to complete the M.Tech course: Certificates along with mark sheets of both Class 10 & 12 Graduation certificate along with mark sheets Proof of both ID and address Passport-size photographs Character certificate Migration certificate Domicile certificate Attested copies of birth certificate and last qualifying examination Attested copies of any other necessary document required (SC/ ST/ OBC certi",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "Brahaspati. 𝐋O𝐚𝐧 app C𝐮𝐬𝐭𝐨𝐦𝐞𝐫” C𝐚𝐫𝐞 H𝐞𝐥𝐩𝐥𝐢𝐧𝐞, N𝐮𝐦𝐛𝐞𝐫)00/+ 77396 75957/77396-75957 cal.l vdd",
+            "question_text": "Can I complete the National Institute of Pharmaceutical Education and Research, Guwahati MTech admission process before final exam results?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Delhi",
-                "tag_url": "https://www.shiksha.com/tags/delhi-tdp-385800"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": null,
-                  "profile_url": null
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": null,
+                "answer_text": "There is no mention of a provisional admissions at National Institute of Pharmaceutical Education and Research, Guwahati for the M.Tech course. However, candidates who have obtained their scores in the accepted entrance exams can try to apply for M.Tech admissions on provisional basis. If accepted, the final admission will be granted based on the final exam result of a candidate.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "22 hours ago"
+                "posted_time": "9 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is the DJ Sanghvi M.Tech degree officially approved?",
+            "question_text": "Which entrance exam registrations are open currently for NIPER, Guwahati M.Tech admissions?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Disk Jockey",
-                "tag_url": "https://www.shiksha.com/tags/disk-jockey-tdp-516815"
+                "tag_name": "National Institute of Pharmaceutical Education and Research S.A.S. Nagar",
+                "tag_url": "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-s-a-s-nagar-punjab-other-23374"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Yes, the DJ Sanghvi M.Tech degree is approved by the University of Mumbai. The programme follows prescribed academic and examination guidelines. The degree is recognised for higher studies and employment.",
+                "answer_text": "Currently, the accepted entrance exam registrations for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions are not open. The GATE and GPAT entrance exam registrations have been closed at this point. However, the registrations for the NIPER JEE are yet to begin at this point. Thus, candidates should aim to register for NIPER JEE for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "10 hours ago"
               }
             ]
           },
           {
-            "question_text": "When does the DJ Sanghvi M.Tech admission process usually close?",
+            "question_text": "Are admissions to National Institute of Pharmaceutical Education and Research, Guwahati M.Tech open in 2026?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "M.Tech Admission Process",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-admission-process-tdp-166173"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "The DJ Sanghvi M.Tech admission process mostly closes by late July or early August. The closing date may change based on seat availability. Apply as early as possible to avoid missing deadlines.",
+                "answer_text": "No, the admissions to National Institute of Pharmaceutical Education and Research, Guwahati M.Tech course is not open for 2026. The admissions are typically opened with the registration of the NIPER JEE which is done in the month of April. Candidates who wish to apply for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech courses can also apply through GPAT and GATE scores.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "10 hours ago"
               }
             ]
           },
           {
-            "question_text": "Can sponsored candidates apply for DJ Sanghvi M.Tech programmes?",
+            "question_text": "Can I only apply for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions until the age of 28 years?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Disk Jockey",
-                "tag_url": "https://www.shiksha.com/tags/disk-jockey-tdp-516815"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Sponsored candidates are allowed to apply for DJ Sanghvi M.Tech programmes. Submit sponsorship letters and relevant work experience documents. Eligibility is checked during the admission process. It is important to read all instructions before hand.",
+                "answer_text": "The website of National Institute of Pharmaceutical Education and Research, Guwahati does not mention a maximum age limit for the M.Tech admissions. The 28 year age limit only applies to the PhD course offered by National Institute of Pharmaceutical Education and Research. Thus, candidates planning to apply for PhD after graduation from M.Tech have to complete their M.Tech before reaching the aforementioned age.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "10 hours ago"
               }
             ]
           },
           {
-            "question_text": "Is document verification mandatory for DJ Sanghvi M.Tech admission?",
+            "question_text": "Is GPAT mandatory for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech admissions?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Disk Jockey",
-                "tag_url": "https://www.shiksha.com/tags/disk-jockey-tdp-516815"
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Jaya Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/52042095"
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Yes, document verification is a must part of the DJ Sanghvi M.Tech admission process. You must present original certificates during reporting. Admission is confirmed only after successful verification of documents.",
+                "answer_text": "No, candidates who wish to apply for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech course are not required to appear for the GPAT exam mandatorily. The selection of candidates can be based on either one of GPAT, GATE or the NIPER JEE exam.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "10 hours ago"
               }
             ]
           }
