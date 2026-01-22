@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
+        "Computer Science Engineering",
         "Aerospace Engineering",
         "Mechanical Engineering",
+        "Chemical Engineering",
         "Civil Engineering",
-        "Electronics and Communication Engineering",
-        "Computer Science Engineering",
-        "Chemical Engineering"
+        "Electronics and Communication Engineering"
       ],
       "top_colleges": [
         {
@@ -2053,6 +2053,32 @@
         },
         "questions": [
           {
+            "question_text": "What subjects are covered in M.Tech AI ML at Faculty of Engineering and Technology, MSRUAS?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vishakha",
+                  "profile_url": "https://www.shiksha.com/userprofile/65654303"
+                },
+                "answer_text": "Subjects span four semesters, including core AI and ML concepts, electives and project work. Detailed course structures are available per semester, emphasising technical and applied AI domains for M.Tech AI ML at Faculty of Engineering and Technology, MSRUAS.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "What are the names of the subjects offered in M.Tech in Aerospace Engineering course at Faculty of Engineering and Technology, MSRUAS?",
             "tags": [
               {
@@ -2074,7 +2100,7 @@
                 "answer_text": "The names of the subjects that M.Tech Faculty of Engineering and Technology, MSRUAS offers are mix of the elective, core, subjects atering to advanced research and industry needs. Some of the names of the subjects are: Advanced Concrete technology and Modern Construction Techniques Resource Management in Civil Construction Construction Planning and Contract Management, etc.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Few mins ago"
+                "posted_time": "10 hours ago"
               }
             ]
           },
@@ -2100,7 +2126,7 @@
                 "answer_text": "The total tuition fee for the Faculty of Engineering and Technology, MSRUAS M.Tech courses range between INR 4.3L - 4.7L . It varies from one specialisation to another. The tuition fee for some of M.Tech specialisations are: MTech Specialisations Total Fee for the First Year MTech Structural Engineering INR 4,66,600 MTech Artificial Intelligence INR 4,26,000 Constructional Engineering and Management INR 4,66,600",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "39 mins ago"
+                "posted_time": "10 hours ago"
               }
             ]
           },
@@ -2126,7 +2152,7 @@
                 "answer_text": "The tuition charges for the M.Tech course at the Faculty of Engineering and Technology, MSRUAS can be completed yearly/ semesterly. The total tuition fee of regular two-year M.Tech course, lies around INR 4.3 L - INR 4.7 L. This amount is taken from the authorised sources. However, it can be modified.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "55 mins ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2152,7 +2178,7 @@
                 "answer_text": "The RUASAT Exam is conducted online as a proctored exam for M.Tech course at Faculty of Engineering and Technology, MSRUAS. The exam dates can vary according to the chosen course. However, whatever the dates will be, the institute informed it to the candidates.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2178,7 +2204,7 @@
                 "answer_text": "For certain M.Tech programmes at Faculty of Engineering and Technology does gives the apprval of admission. Also, it is completely depends on which programme the candidate is willing to change and when. Based on the availability university will guide the candidates.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2204,7 +2230,7 @@
                 "answer_text": "If you are planning to get enrolled for M.Tech courses through the scores of RUASAT, you can register for the programme by visiting to the authorised website of the Faculty of Engineering and Technology, MSRUAS now. Also, the last date for submitting the RUASAT Application form for session 1 falls in April. On the other hand, if you are planning to get admissions through the scores of national/ state level entrance exams, you can apply for the course after concerned exam results.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2230,7 +2256,7 @@
                 "answer_text": "For admissions into MTech courses at the Faculty of Engineering and Technology, MS Ramaiah University of Applied Sciences (MSRUAS) for the recent academic year, the following entrance exams are accepted: CUET PG GATE RUAS AT (Ramaiah University of Applied Sciences Admission Test",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2256,7 +2282,7 @@
                 "answer_text": "The eligibility requirements for admissions into M.Tech courses at Faculty of Engineering and Technology, MSRUAS is students should complete their BE/ BTech degree with a decent scores. Also, for selecting the students the institute follows the rules and regulations according to the MSRUAS, i.e., RUASAT/ CUET PG/ GATE  + Counselling.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
@@ -2282,33 +2308,7 @@
                 "answer_text": "Yes, the Faculty of Engineering and Technology, MSRUAS does offer a MTech courses as a regular programme for the duration of two-years at PG-level. The programme is offered across multiple specialisations including Data Science and Engineering, Construction Engineering and Management, Robotics Engineering, Artificial Intelligence and Machine Learning, VLSI Nanotechnology, etc.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the average package recorded during NIT Patna M.Tech placements?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "NIT Patna - National Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/nit-patna-national-institute-of-technology-23147"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Dhanya Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587170"
-                },
-                "answer_text": "The average package recorded during NIT Patna M.Tech placements 2025 is mentioned below: MTech Branch Average Package 2025 ME INR 5.62 LPA EE INR 6.25 LPA CE INR 7.28 LPA ECE INR 10.97 LPA CSE INR 8.19 LPA",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "12 hours ago"
               }
             ]
           }
