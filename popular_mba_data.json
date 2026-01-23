@@ -438,7 +438,7 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2258Colleges"
+              "college_count": "2260Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
@@ -454,7 +454,7 @@
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "787Colleges"
+              "college_count": "788Colleges"
             },
             {
               "specialization": "Power Engineering",
@@ -1301,11 +1301,11 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Computer Science Engineering",
-        "Aerospace Engineering",
         "Mechanical Engineering",
-        "Chemical Engineering",
         "Civil Engineering",
+        "Computer Science Engineering",
+        "Chemical Engineering",
+        "Aerospace Engineering",
         "Electronics and Communication Engineering"
       ],
       "top_colleges": [
@@ -2048,10 +2048,218 @@
         "stats": {
           "Questions": "15.9k",
           "Discussions": "2",
-          "Active Users": "133",
+          "Active Users": "129",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "Can I join M.Tech at IIIT Kottayam without 80% in graduation?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Kottayam",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tanu Rao",
+                  "profile_url": "https://www.shiksha.com/userprofile/84134530"
+                },
+                "answer_text": "IIIT Kottayam has specified a minimum aggregate of 60% in graduation from any recognised institute/ university for admission to the M.Tech programme. Candidates with 80% in graduation, typically have a decent chance at securing admission to the institute.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "14 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the course fees for BTech and M.Tech at IIIT Sri City?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "IIIT Sri City - Indian Institute of Information Technology",
+                "tag_url": "https://www.shiksha.com/college/iiit-sri-city-indian-institute-of-information-technology-chittoor-39366"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chikat Marchang",
+                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
+                },
+                "answer_text": "The course fees for the BTech and M.Tech programmes at Institute of Information Technology Sri City consists largely of tuition fees being: Around INR 1.65 Lakhs per semester for the 4-year BTech programme. While the M.Tech tuition fees are around INR 1.25 Lakhs per semester for the 2-year programme. Students may also have other extra charges such as examination fees, security deposit, etc.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "15 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "M tech in Structural engineering",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Structural Engineering",
+                "tag_url": "https://www.shiksha.com/tags/structural-engineering-tdp-645736"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "18 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Which is the best specialisations of M.Tech course at Faculty of Engineering and Technology, MSRUAS?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Krishnendu Kumar",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587102"
+                },
+                "answer_text": "There are a no. of specialisations offered for M.Tech course at the Faculty of Engineering and Technology, MSRUAS. Students can choose any of the specialisations, whichever suits to their career goals. However, the Data Science and Engineering is widely famous among students.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Does Faculty of Engineering and Technology, MSURAS have entrance exam for MTech?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Atul Pruthi",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586734"
+                },
+                "answer_text": "Yes, Faculty of Engineering and Technology conducts the RUAT Admission Test/ RUASAT for admission to the Masters in engineering course. The M.Tech course aspirants can take this exam to secure a seat. To apply for this test, aspirants can visit the MSRUAS official website. Moreover, the university also accepts national exam scores. The accepted exams are GATE/ CUET PG.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "19 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the factors on which we can compare M.Tech course at Faculty of Engineering and Technology, MSRUAS?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Chanchal Gaurav",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586500"
+                },
+                "answer_text": "Faculty of Engineering and Technology, MSRUAS M.Tech course is available in multiple specialisations. Thus, students can compare the colleges and institutions that offer similar specialisations. Also, there are a lot of other factors that can be considered for comparing the institutes/ colleges and that are decided according to the students' preferences.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many seats does Faculty of Engineering and Technology, MSRUAS have for M.Tech courses?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Kartik Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586926"
+                },
+                "answer_text": "The faculty has a total of 96 seats for the M.Tech courses. In addition, the seat count can vary from one course specialisation to another. The university allot seats through a counselling process. Additionally, the seat allotment is done based on applicants scores in the accepted exams. The seat intake mentioned here is as per the official website/sanctioning body. It is still subject to changes and hence, is indicative.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "In which M.Tech specialisation, does Faculty of Engineering and Technology, MSRUAS offers the highest number of seats?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Indrani Tyagi",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586562"
+                },
+                "answer_text": "The Faculty of Engineering and Technology, MSRUAS almost offers around 7 specialisations in M.Tech courses. Also, the number of seats provided to different specialisations is on the similar pattern. Check out the name of those specialisations which have the highest number of seats: Courses Seats M.Tech. in Construction Engineering and Management 18 M.Tech. in Data Science and Engineering 18 M.Tech. in Artificial Intelligence and Machine Learning 18",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "20 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "What subjects are covered in M.Tech AI ML at Faculty of Engineering and Technology, MSRUAS?",
             "tags": [
@@ -2074,241 +2282,7 @@
                 "answer_text": "Subjects span four semesters, including core AI and ML concepts, electives and project work. Detailed course structures are available per semester, emphasising technical and applied AI domains for M.Tech AI ML at Faculty of Engineering and Technology, MSRUAS.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the names of the subjects offered in M.Tech in Aerospace Engineering course at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Chanchal Gaurav",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586500"
-                },
-                "answer_text": "The names of the subjects that M.Tech Faculty of Engineering and Technology, MSRUAS offers are mix of the elective, core, subjects atering to advanced research and industry needs. Some of the names of the subjects are: Advanced Concrete technology and Modern Construction Techniques Resource Management in Civil Construction Construction Planning and Contract Management, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "10 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the fee for M.Tech at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Kartik Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586926"
-                },
-                "answer_text": "The total tuition fee for the Faculty of Engineering and Technology, MSRUAS M.Tech courses range between INR 4.3L - 4.7L . It varies from one specialisation to another. The tuition fee for some of M.Tech specialisations are: MTech Specialisations Total Fee for the First Year MTech Structural Engineering INR 4,66,600 MTech Artificial Intelligence INR 4,26,000 Constructional Engineering and Management INR 4,66,600",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "10 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the tuition fee for M.Tech course at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Indrani Tyagi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586562"
-                },
-                "answer_text": "The tuition charges for the M.Tech course at the Faculty of Engineering and Technology, MSRUAS can be completed yearly/ semesterly. The total tuition fee of regular two-year M.Tech course, lies around INR 4.3 L - INR 4.7 L. This amount is taken from the authorised sources. However, it can be modified.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is RAUSAT for admissions to M.Tech course at conducted in an online or offline mode?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "online",
-                "tag_url": "https://www.shiksha.com/tags/online-tdp-419462"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vishakha",
-                  "profile_url": "https://www.shiksha.com/userprofile/65654303"
-                },
-                "answer_text": "The RUASAT Exam is conducted online as a proctored exam for M.Tech course at Faculty of Engineering and Technology, MSRUAS. The exam dates can vary according to the chosen course. However, whatever the dates will be, the institute informed it to the candidates.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is it possible to change M.Tech programme at Faculty of Engineering after admission approval?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Christ University Faculty of Engineering",
-                "tag_url": "https://www.shiksha.com/tags/christ-university-faculty-of-engineering-tdp-189768"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Indrani Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586802"
-                },
-                "answer_text": "For certain M.Tech programmes at Faculty of Engineering and Technology does gives the apprval of admission. Also, it is completely depends on which programme the candidate is willing to change and when. Based on the availability university will guide the candidates.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "When can I apply for M.Tech course at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Piyush Jain",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587038"
-                },
-                "answer_text": "If you are planning to get enrolled for M.Tech courses through the scores of RUASAT, you can register for the programme by visiting to the authorised website of the Faculty of Engineering and Technology, MSRUAS now. Also, the last date for submitting the RUASAT Application form for session 1 falls in April. On the other hand, if you are planning to get admissions through the scores of national/ state level entrance exams, you can apply for the course after concerned exam results.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the names of the entrance exams for admissions into M.Tech courses at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Tanisha Pandey",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587008"
-                },
-                "answer_text": "For admissions into MTech courses at the Faculty of Engineering and Technology, MS Ramaiah University of Applied Sciences (MSRUAS) for the recent academic year, the following entrance exams are accepted: CUET PG GATE RUAS AT (Ramaiah University of Applied Sciences Admission Test",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility requirements for admissions into M.Tech course at Faculty of Engineering and Technology, MSRUAS?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Abhishek Hazarika",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586672"
-                },
-                "answer_text": "The eligibility requirements for admissions into M.Tech courses at Faculty of Engineering and Technology, MSRUAS is students should complete their BE/ BTech degree with a decent scores. Also, for selecting the students the institute follows the rules and regulations according to the MSRUAS, i.e., RUASAT/ CUET PG/ GATE  + Counselling.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "11 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does Faculty of Engineering and Technology, MSRUAS offers M.Tech courses?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
-                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Rachit Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586424"
-                },
-                "answer_text": "Yes, the Faculty of Engineering and Technology, MSRUAS does offer a MTech courses as a regular programme for the duration of two-years at PG-level. The programme is offered across multiple specialisations including Data Science and Engineering, Construction Engineering and Management, Robotics Engineering, Artificial Intelligence and Machine Learning, VLSI Nanotechnology, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "12 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           }
