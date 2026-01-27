@@ -1301,11 +1301,11 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Electronics and Communication Engineering",
         "Chemical Engineering",
-        "Mechanical Engineering",
         "Aerospace Engineering",
+        "Mechanical Engineering",
         "Civil Engineering",
+        "Electronics and Communication Engineering",
         "Computer Science Engineering"
       ],
       "top_colleges": [
@@ -2048,10 +2048,202 @@
         "stats": {
           "Questions": "15.9k",
           "Discussions": "2",
-          "Active Users": "125",
+          "Active Users": "123",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "How do I choose an entrance exam for M.Tech Electrical Engineering admission?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Exam",
+                "tag_url": "https://www.shiksha.com/tags/exam-tdp-4"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vemula adithya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100819592"
+                },
+                "answer_text": "The PGCET is a pivotal entrance examination for engineering graduates aiming to secure a Master's degree in state-governed and top-tier private institutions. For an Electrical Engineering aspirant, this exam serves as a gateway to specialised fields like Power Systems, Control Systems, and VLSI Design. Unlike national-level exams that can be overwhelmingly competitive, the PGCET offers a balanced platform for students to demonstrate their technical proficiency within their home state, ensuring access to quality higher education and better local networking opportunities.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "8 hours ago"
+              },
+              {
+                "author": {
+                  "name": "vemula adithya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100819592"
+                },
+                "answer_text": "The Post Graduate Common Entrance Test (PGCET) is a state-level entrance exam in India, primarily used for admission into postgraduate programs like MBA, MCA, M.E., M.Tech, and M.Arch.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "8 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "M tech in Structural engineering",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Structural Engineering",
+                "tag_url": "https://www.shiksha.com/tags/structural-engineering-tdp-645736"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vemula adithya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100819592"
+                },
+                "answer_text": "M.Tech in Structural Engineering is a specialised branch of Civil Engineering that focuses on the analysis and design of structures that support or resist loads.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "8 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Who can apply for M.Tech at Indian Institute for Aeronautical Engineering and Information Technology?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute for Aeronautical Engineering and Information Technology",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-for-aeronautical-engineering-and-information-technology-shivane-pune-64753"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Candidates need to complete BE/BTech. in Aerospace/ Aeronautical/ Mechanical/ Mechatronics Engineering or equivalent with minimum 50% aggregate (45% for reserved categories) to apply for M.Tech programme at Indian Institute for Aeronautical Engineering and Information Technology.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "11 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Does IIAEIT offer BTech + M.Tech course?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute for Aeronautical Engineering and Information Technology",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-for-aeronautical-engineering-and-information-technology-shivane-pune-64753"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Indian Institute for Aeronautical Engineering and Information Technology offers BTech + M.Tech for five-years at the UG level. The institute offers BTech + M.Tech in Defence Technology and Aerospace Engineering. Candidates need to complete Class 12 to apply for this course.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "11 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the accepted exams for Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences MTech?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Pallavi Karan",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586540"
+                },
+                "answer_text": "Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences accepts several exams for its M.Tech programme. These are both national and state-level. The exams are - GATE/ CUET-PG/ RUASAT.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "13 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Who can get admission in M.Tech at Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Faculty of Engineering and Technology, Manav Rachna International Institute of Research and Studies",
+                "tag_url": "https://www.shiksha.com/college/school-of-engineering-and-technology-manav-rachna-international-institute-of-research-and-studies-faridabad-24127"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aishwarya Malhotra",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586922"
+                },
+                "answer_text": "Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences M.Tech admissions are offered only to those who clear eligibility. The admission requirements are as below: BTech or equivalent from a recognised university GATE/ CUET-PG/ RUASAT",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "13 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many seats offered at M.Tech colleges in India?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "India",
+                "tag_url": "https://www.shiksha.com/tags/india-tdp-385218"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Tasbiya Khan",
+                  "profile_url": "https://www.shiksha.com/userprofile/48629429"
+                },
+                "answer_text": "IIT Delhi offered the highest no. of M.Tech seats offered in India. Over 3,000+ institutions offer M.Tech programs, including IITs, NITs, and private universities. Candidates can see the table below for the top M.Tech colleges in India with their seat intake - Top Colleges MTech Seat Intake VIT Vellore 684 SRM IST 640 BITS Pilani 1,451 IIT Bombay 1,031 IIT Delhi 1,549 IIT Madras 874 Source: Official site and may vary.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "14 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "What is the BAMU Aurangabad M.Tech Cutoff 2025?",
             "tags": [
@@ -2074,7 +2266,7 @@
                 "answer_text": "The BAMU Aurangabad M.Tech Cutoff 2025 was released in the form of opening and closing percentiles for all rounds and categories under the Home State quota. For the General HS quota, the last round cutoff ranged from 7.33 to 87 , wherein Dr Babasaheb Ambedkar Marathwada University was the most competitive institute to gain admission to for this category. Note: Other rounds, categories, etc., will have different cutoffs accordingly.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2100,215 +2292,7 @@
                 "answer_text": "The branch-wise the highest package offered during IIT Jodhpur M.Tech placements 2025 is mentioned below: MTech Branch Median Package 2025 Computer Science & Engineering INR 14.34 LPA Artificial Intelligence INR 14.17 LPA Data & Computational Sciences INR 14.88 LPA Sensors & Internet of Things INR 13 LPA Cyber Physical System INR 10 LPA Advance Manufacturing & Design INR 10 LPA Thermofluid Engineering INR 10 LPA Materials Engineering INR 6.25 LPA Chemical Engineering INR 6.5 LPA Civil & Infrastructure Engineering INR 5.83 LPA Intelligent Communication System INR 10 LPA Robotics and Mobility System INR 9.5 LPA Augmented Reality and Virtual Reality INR 10 LPA Quantum Technologies INR 13 LPA Intelligent VLSI INR 13 LPA",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How many students are placed during IIT Jodhpur M.Tech placements?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Jodhpur - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-jodhpur-indian-institute-of-technology-32712"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saakshi Malhotra",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587498"
-                },
-                "answer_text": "The branch-wise students registered and placed during IIT Jodhpur M.Tech placements 2025 are mentioned below: MTech Branch Students Registered 2025 Students Placed 2025 Computer Science & Engineering 18 15 Artificial Intelligence 13 12 Data & Computational Sciences 5 4 Sensors & Internet of Things 6 3 Cyber Physical System 9 4 Advance Manufacturing & Design 13 12 Thermofluid Engineering 4 2 Materials Engineering 7 4 Chemical Engineering 10 5 Civil & Infrastructure Engineering 8 4 Intelligent Communication System 5 4 Robotics and Mobility System 11 10 Augmented Reality and Virtual Reality 9 9 Quantum Technologies 6 6 Intelligent VLSI 12 5",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How are M.Tech placements at IIT Jodhpur?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Jodhpur - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-jodhpur-indian-institute-of-technology-32712"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Pooja Divya",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587588"
-                },
-                "answer_text": "The key placement highlights of M.Tech course at IIT Jodhpur over the past three years are mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 MTech Placement Statistics 2025 the highest Package INR 44.25 LPA INR 27 LPA INR 35.19 LPA Students Registered 113 113 136 Students Placed 89 96 99",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the fees for BTech and M.Tech at IIT Palakkad?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Palakkad - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-palakkad-indian-institute-of-technology-53829"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Chikat Marchang",
-                  "profile_url": "https://www.shiksha.com/userprofile/97350186"
-                },
-                "answer_text": "The course fees for the BTech and M.Tech programmes at Institute of Technology Palakkad consists largely of tuition fees being: Around INR 1 Lakhs per semester for the 4-year BTech programme. While the M.Tech tuition fees are around INR 5K per semester for the 2-year programme. Students may also have other extra charges such as examination fees, security deposit, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which category of candidates get the highest seat reservation during IIT Dhanbad M.Tech admissions?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "According to the website of IIT Dhanbad, the most number of seat reservations are offered to the OBC-NCL category of candidates. Out of the 475 reserved seats for M.Tech admissions at IIT Dhanbad, around 215 seats are reserved for OBC-NCL category.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the M.Tech seat intake at IIT Dhanbad?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "The M.Tech seat intake at IIT Dhanbad is yet to be revealed for 2026 admissions. Last year,  798 seats were offered by IIT Dhanbad for M.Tech admissions. Out of these seats,  475 seats were reserved for special category candidates.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How much CGPA is needed in BTech at IIT Dhanbad to qualify for M.Tech admissions without GATE?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "Candidates need to graduate from BTech at IIT Dhanbad with a minimum GPA of 8.0 or above to qualify for M.Tech admissions without GATE. Only the candidates who clear BTech from IIT Dhanbad are allowed admissions without GATE into M.Tech at II Dhanbad with the aforementioned score.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is GATE 2026 registration still open for IIT Dhanbad M.Tech admissions?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "No, the GATE 2026 has already been concluded for IIT Dhanbad M.Tech admissions. The GATE 2026 registrations are closed in the month of October. Candidates who have appeared for GATE will need to wait for all merit-lists to be revealed.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Are admissions to M.Tech courses at IIT Dhanbad open in 2026?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
-                "tag_url": "https://www.shiksha.com/college/iit-dhanbad-ism-indian-institute-of-technology-ism-13669"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "No, IIT Dhanbad is yet to open the admissions for M.Tech courses in 2026. Usually, the institute beings accepting applications for M.Tech admissions from the month of March. Candidates usually get till mid April to submit their applications for the M.Tech course at IIT Dhanbad.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "3 days ago"
+                "posted_time": "4 days ago"
               }
             ]
           }
