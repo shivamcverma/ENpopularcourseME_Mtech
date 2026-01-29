@@ -438,43 +438,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2261Colleges"
+              "college_count": "2261  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1091Colleges"
+              "college_count": "1091  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "822Colleges"
+              "college_count": "822  Colleges"
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "811Colleges"
+              "college_count": "811  Colleges"
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "788Colleges"
+              "college_count": "788  Colleges"
             },
             {
               "specialization": "Power Engineering",
-              "college_count": "785Colleges"
+              "college_count": "785  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "594Colleges"
+              "college_count": "594  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "559Colleges"
+              "college_count": "559  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "555Colleges"
+              "college_count": "555  Colleges"
             },
             {
               "specialization": "Communications Engineering",
-              "college_count": "390Colleges"
+              "college_count": "390  Colleges"
             }
           ]
         }
@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Computer Science Engineering",
-        "Electronics and Communication Engineering",
+        "Aerospace Engineering",
         "Civil Engineering",
+        "Electronics and Communication Engineering",
         "Mechanical Engineering",
         "Chemical Engineering",
-        "Aerospace Engineering"
+        "Computer Science Engineering"
       ],
       "top_colleges": [
         {
@@ -1847,7 +1847,7 @@
       "M Tech": {
         "JM Prepration": {
           "title": "Why is Engineering Still a Highly Paid Career Stream?",
-          "updated_on": "2  mins read",
+          "updated_on": "2mins read",
           "author": {
             "name": "Mamona Majumder",
             "image": null
@@ -2044,14 +2044,66 @@
     "QAN": {
       "QA": {
         "tag_name": "M.Tech",
-        "description": "Get insights from 15.9k questions on M.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about M.Tech",
+        "description": "Get insights from 11.2k questions on M.Tech, answered by students, alumni, and experts. You may also ask and answer any question you like about M.Tech",
         "stats": {
-          "Questions": "15.9k",
+          "Questions": "11.2k",
           "Discussions": "2",
-          "Active Users": "123",
+          "Active Users": "119",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "DIYACREDIT Loan app Cus tom er Care helpline number (1800)+904 6463 899 / (1400)+70632 59068 yyy",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Care School Of Of Business Management Tiruchirappalli",
+                "tag_url": "https://www.shiksha.com/college/care-school-of-business-management-tiruchirappalli-37124"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": null,
+                  "profile_url": null
+                },
+                "answer_text": null,
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the NMU M.Tech Cutoff 2025? I belong to the OBC category.",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "North Maharashtra University",
+                "tag_url": "https://www.shiksha.com/university/north-maharashtra-university-jalgaon-22122"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "The NMU M.Tech Cutoff 2025 was released for multiple categories for admission to the ME/MTech programme and its specialisations. The cutoff was out for all categories under the Home Statw quota. For the OBC HS quota, the NMU MHTCET M.Tech cutoff 2025 was 3.33 in the last round for M.Tech. in the Computer Engineering course. For the M.Tech. in Food Technology programme, the last round cutoff was 11.67 , making this course the most competitive one for admission. Students can refer to the table below to know the first and final round cutoff for the OBC HS category. Course Round 1 (Closing Ranks) Last Round (Closing Ranks) M.Tech. in Computer Engineering 3.33 3.33 M.Tech. in Food Technology 11.67 11.67",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "11 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "How do I choose an entrance exam for M.Tech Electrical Engineering admission?",
             "tags": [
@@ -2074,7 +2126,7 @@
                 "answer_text": "The PGCET is a pivotal entrance examination for engineering graduates aiming to secure a Master's degree in state-governed and top-tier private institutions. For an Electrical Engineering aspirant, this exam serves as a gateway to specialised fields like Power Systems, Control Systems, and VLSI Design. Unlike national-level exams that can be overwhelmingly competitive, the PGCET offers a balanced platform for students to demonstrate their technical proficiency within their home state, ensuring access to quality higher education and better local networking opportunities.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "11 hours ago"
+                "posted_time": "Yesterday"
               },
               {
                 "author": {
@@ -2084,7 +2136,7 @@
                 "answer_text": "The Post Graduate Common Entrance Test (PGCET) is a state-level entrance exam in India, primarily used for admission into postgraduate programs like MBA, MCA, M.E., M.Tech, and M.Arch.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "11 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2110,7 +2162,7 @@
                 "answer_text": "M.Tech in Structural Engineering is a specialised branch of Civil Engineering that focuses on the analysis and design of structures that support or resist loads.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "11 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2136,7 +2188,7 @@
                 "answer_text": "Candidates need to complete BE/BTech. in Aerospace/ Aeronautical/ Mechanical/ Mechatronics Engineering or equivalent with minimum 50% aggregate (45% for reserved categories) to apply for M.Tech programme at Indian Institute for Aeronautical Engineering and Information Technology.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "14 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2162,7 +2214,7 @@
                 "answer_text": "Indian Institute for Aeronautical Engineering and Information Technology offers BTech + M.Tech for five-years at the UG level. The institute offers BTech + M.Tech in Defence Technology and Aerospace Engineering. Candidates need to complete Class 12 to apply for this course.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "14 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2188,7 +2240,7 @@
                 "answer_text": "Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences accepts several exams for its M.Tech programme. These are both national and state-level. The exams are - GATE/ CUET-PG/ RUASAT.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2214,7 +2266,7 @@
                 "answer_text": "Faculty of Engineering and Technology, M.S. Ramaiah University of Applied Sciences M.Tech admissions are offered only to those who clear eligibility. The admission requirements are as below: BTech or equivalent from a recognised university GATE/ CUET-PG/ RUASAT",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "15 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2240,59 +2292,7 @@
                 "answer_text": "IIT Delhi offered the highest no. of M.Tech seats offered in India. Over 3,000+ institutions offer M.Tech programs, including IITs, NITs, and private universities. Candidates can see the table below for the top M.Tech colleges in India with their seat intake - Top Colleges MTech Seat Intake VIT Vellore 684 SRM IST 640 BITS Pilani 1,451 IIT Bombay 1,031 IIT Delhi 1,549 IIT Madras 874 Source: Official site and may vary.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "16 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the BAMU Aurangabad M.Tech Cutoff 2025?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Dr. Babasaheb Ambedkar Marathwada University",
-                "tag_url": "https://www.shiksha.com/university/dr-babasaheb-ambedkar-marathwada-university-aurangabad-64611"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Neerja Rohatgi",
-                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
-                },
-                "answer_text": "The BAMU Aurangabad M.Tech Cutoff 2025 was released in the form of opening and closing percentiles for all rounds and categories under the Home State quota. For the General HS quota, the last round cutoff ranged from 7.33 to 87 , wherein Dr Babasaheb Ambedkar Marathwada University was the most competitive institute to gain admission to for this category. Note: Other rounds, categories, etc., will have different cutoffs accordingly.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the branch-wise median package offered during IIT Jodhpur M.Tech placements?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Jodhpur - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-jodhpur-indian-institute-of-technology-32712"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Krishnendu Chatterjee",
-                  "profile_url": "https://www.shiksha.com/userprofile/33610625"
-                },
-                "answer_text": "The branch-wise the highest package offered during IIT Jodhpur M.Tech placements 2025 is mentioned below: MTech Branch Median Package 2025 Computer Science & Engineering INR 14.34 LPA Artificial Intelligence INR 14.17 LPA Data & Computational Sciences INR 14.88 LPA Sensors & Internet of Things INR 13 LPA Cyber Physical System INR 10 LPA Advance Manufacturing & Design INR 10 LPA Thermofluid Engineering INR 10 LPA Materials Engineering INR 6.25 LPA Chemical Engineering INR 6.5 LPA Civil & Infrastructure Engineering INR 5.83 LPA Intelligent Communication System INR 10 LPA Robotics and Mobility System INR 9.5 LPA Augmented Reality and Virtual Reality INR 10 LPA Quantum Technologies INR 13 LPA Intelligent VLSI INR 13 LPA",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "4 days ago"
+                "posted_time": "Yesterday"
               }
             ]
           }
