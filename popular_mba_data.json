@@ -438,43 +438,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2262Colleges"
+              "college_count": "2262  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1091Colleges"
+              "college_count": "1091  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "823Colleges"
+              "college_count": "823  Colleges"
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "811Colleges"
+              "college_count": "810  Colleges"
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "789Colleges"
+              "college_count": "789  Colleges"
             },
             {
               "specialization": "Power Engineering",
-              "college_count": "784Colleges"
+              "college_count": "784  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "594Colleges"
+              "college_count": "594  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "559Colleges"
+              "college_count": "559  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "555Colleges"
+              "college_count": "555  Colleges"
             },
             {
               "specialization": "Communications Engineering",
-              "college_count": "390Colleges"
+              "college_count": "390  Colleges"
             }
           ]
         }
@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Aerospace Engineering",
-        "Electronics and Communication Engineering",
         "Computer Science Engineering",
+        "Chemical Engineering",
+        "Electronics and Communication Engineering",
         "Mechanical Engineering",
         "Civil Engineering",
-        "Chemical Engineering"
+        "Aerospace Engineering"
       ],
       "top_colleges": [
         {
@@ -1847,7 +1847,7 @@
       "M Tech": {
         "JM Prepration": {
           "title": "Why is Engineering Still a Highly Paid Career Stream?",
-          "updated_on": "2  mins read",
+          "updated_on": "2mins read",
           "author": {
             "name": "Mamona Majumder",
             "image": null
@@ -2100,7 +2100,7 @@
                 "answer_text": "MTech median package received during NIT Agartala placements 2024 was 7.5 LPA. In 2023, the median package received was 6.25 LPA.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "10 hours ago"
+                "posted_time": "11 hours ago"
               }
             ]
           },
