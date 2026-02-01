@@ -1302,11 +1302,11 @@
       "civil_jobs": [],
       "top_recruiters": [
         "Computer Science Engineering",
-        "Chemical Engineering",
-        "Electronics and Communication Engineering",
         "Mechanical Engineering",
+        "Chemical Engineering",
         "Civil Engineering",
-        "Aerospace Engineering"
+        "Aerospace Engineering",
+        "Electronics and Communication Engineering"
       ],
       "top_colleges": [
         {
@@ -2048,10 +2048,36 @@
         "stats": {
           "Questions": "11.2k",
           "Discussions": "2",
-          "Active Users": "116",
+          "Active Users": "110",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "What is the Zeal College of Engineering and Research M.Tech cutoff 2025?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Zeal College of Engineering and Research",
+                "tag_url": "https://www.shiksha.com/college/zeal-college-of-engineering-and-research-narhe-pune-36894"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Neerja Rohatgi",
+                  "profile_url": "https://www.shiksha.com/userprofile/97214830"
+                },
+                "answer_text": "Zeal College of Engineering and Research MHTCET M.Tech cutoff 2025 was released for admission to the M.Tech course specialisations for various categories under the  Home State quota. For the General HS quota, the last round cutoff ranged from 1 percentile to 15.27 , wherein M.Tech. in Data Science was the most the hardest course for admission. Students should remember that the cutoff for other category, round, etc., will vary accordingly.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "an hour ago"
+              }
+            ]
+          },
           {
             "question_text": "What was the SRTMUN M.Tech cutoff 2025? I belong to the OBC category.",
             "tags": [
@@ -2074,7 +2100,7 @@
                 "answer_text": "The SRTMUN M.Tech cutoff 2025 was published for admission to various categories under the Home State quota. The cutoff was concluded with the results for the last round being declared in the form of percentiles. For the OBC HS quota, the last round cutoff ranged from 0.74 to 18.96 , wherein the hardest branch for admission was MTech in Structural Engineering . In the first round, the cutoff fell between the ranges of 1.35 and 18.96 , with the aforementioned specialisation being the most competitve for admission for the first round too.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "an hour ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2100,7 +2126,7 @@
                 "answer_text": "MTech median package received during NIT Agartala placements 2024 was 7.5 LPA. In 2023, the median package received was 6.25 LPA.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "11 hours ago"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2126,7 +2152,7 @@
                 "answer_text": "For an M.Tech in Designing & Urban Development , it is important to choose an institute with strong academic depth, practical exposure, and industry or government linkage. Top choices in India include IIT Bombay (Urban Systems) , VNIT Nagpur , and the School of Planning and Architecture (SPA) , which are highly reputed and focus on sustainable urban planning, design, GIS, and smart city concepts, usually through GATE-based admission . If your son prefers an interdisciplinary and development-oriented approach, TERI School of Advanced Studies, Delhi is also a good option. Overall, institutes with strong faculty, live projects, and internships",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2152,7 +2178,7 @@
                 "answer_text": "IndianOil Odisha Campus, Bhubaneswar, Institute of Chemical Technology, Mumbai offers a M.E./M.Tech course of 2 years in full time mode. The course is available with 2 specialisations, namely Food Technology and Pharmaceutical engineering. The programme has a total eat intake of 84 seats.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2178,7 +2204,7 @@
                 "answer_text": "MTech admission at are entrance based with the institute accepting OJEE, GATE, JEE Main, GPAT, MHT CET scores for the same. The institute does not entertain any merit based admission to the offered courses.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2204,7 +2230,7 @@
                 "answer_text": "The minimum eligibility for MTch at Indian OIL Campus, Bhubaneswar, ICT, Mumbai is passing UG with atleast 50% aggregate and passing Class 12 with atleast 75% aggregate. The selection criterai for the same is entrance based.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2230,7 +2256,7 @@
                 "answer_text": "NHCE Bangalore accepts GATE score for admission to M.Tech programme. However, it is not compulsory. Aspirants can also get into M.Tech course based on their Karnataka PGCET scores. Selected candidates have to confirm their seat by paying the course fees.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2256,7 +2282,7 @@
                 "answer_text": null,
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2280,32 +2306,6 @@
                   "profile_url": "https://www.shiksha.com/userprofile/97214830"
                 },
                 "answer_text": "The NMU M.Tech Cutoff 2025 was released for multiple categories for admission to the ME/MTech programme and its specialisations. The cutoff was out for all categories under the Home Statw quota. For the OBC HS quota, the NMU MHTCET M.Tech cutoff 2025 was 3.33 in the last round for M.Tech. in the Computer Engineering course. For the M.Tech. in Food Technology programme, the last round cutoff was 11.67 , making this course the most competitive one for admission. Students can refer to the table below to know the first and final round cutoff for the OBC HS category. Course Round 1 (Closing Ranks) Last Round (Closing Ranks) M.Tech. in Computer Engineering 3.33 3.33 M.Tech. in Food Technology 11.67 11.67",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How do I choose an entrance exam for M.Tech Electrical Engineering admission?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Exam",
-                "tag_url": "https://www.shiksha.com/tags/exam-tdp-4"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vemula adithya",
-                  "profile_url": "https://www.shiksha.com/userprofile/100819592"
-                },
-                "answer_text": "The PGCET is a pivotal entrance examination for engineering graduates aiming to secure a Master's degree in state-governed and top-tier private institutions. For an Electrical Engineering aspirant, this exam serves as a gateway to specialised fields like Power Systems, Control Systems, and VLSI Design. Unlike national-level exams that can be overwhelmingly competitive, the PGCET offers a balanced platform for students to demonstrate their technical proficiency within their home state, ensuring access to quality higher education and better local networking opportunities.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "3 days ago"
