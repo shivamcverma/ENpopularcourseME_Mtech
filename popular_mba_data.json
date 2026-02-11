@@ -438,15 +438,15 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2275Colleges"
+              "college_count": "2272Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1095Colleges"
+              "college_count": "1093Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "826Colleges"
+              "college_count": "827Colleges"
             },
             {
               "specialization": "Structural Engineering",
@@ -454,7 +454,7 @@
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "796Colleges"
+              "college_count": "795Colleges"
             },
             {
               "specialization": "Power Engineering",
@@ -470,11 +470,11 @@
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "554Colleges"
+              "college_count": "553Colleges"
             },
             {
               "specialization": "Communications Engineering",
-              "college_count": "390Colleges"
+              "college_count": "389Colleges"
             }
           ]
         }
@@ -1301,11 +1301,11 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Civil Engineering",
         "Mechanical Engineering",
         "Electronics and Communication Engineering",
-        "Computer Science Engineering",
         "Chemical Engineering",
+        "Computer Science Engineering",
+        "Civil Engineering",
         "Aerospace Engineering"
       ],
       "top_colleges": [
@@ -2048,6 +2048,84 @@
         },
         "questions": [
           {
+            "question_text": "What is a good GATE score for M.Tech at IIT Bombay?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Technology, IIT Bombay",
+                "tag_url": "https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Shiksha Gaurav",
+                  "profile_url": "https://www.shiksha.com/userprofile/78470524"
+                },
+                "answer_text": "If you are aiming for branches like computer science, electrical engineering, electronics and communication or mechanical engineering, then a GATE score of 750+ is highly recommended. But if you are aiming for GATE branches, such as Mtech in architecture and planning or aerospace engineering at IIT Bombay, then a GATE score of 600+ is usually needed for admission.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How much GATE score is required for M.Tech at IIT?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "GATE",
+                "tag_url": "https://www.shiksha.com/engineering/gate-exam"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Piyush Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/78471044"
+                },
+                "answer_text": "A GATE score of 700 to 800 is mainly required for M.Tech admission at IIT (especially for top IITs). However, the score also depends on the IIT popularity, branch popularity, and other factors. For new IITs, a GATE score of 500 to 600 is mainly required. It is advised to check the past year's GATE cutoff trends before opting for counselling and admission.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I download my SRMJEEE M.Tech hall ticket later after exam?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "SRMJEEE",
+                "tag_url": "https://www.shiksha.com/engineering/srmjeee-exam"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Bhumika Uniyal",
+                  "profile_url": "https://www.shiksha.com/userprofile/78470886"
+                },
+                "answer_text": "The admit card of SRMJEEE PG will be available for download till the exam. If you need it for counselling purposes, then it is advised to save and take multiple printouts for future purposes.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "9 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "Is GATE mandatory for CGC Landran M.Tech admissions?",
             "tags": [
               {
@@ -2069,7 +2147,7 @@
                 "answer_text": "Yes, GATE is a mandatory entrance exam for CGC Landran M.Tech admissions. The selection of candidates for the M.Tech course is done during the PTU counseling. During the PTU counseling round, CGC Landran will look at the GATE score obtained by a candidate to decide their admission.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2095,7 +2173,7 @@
                 "answer_text": "The CGC Landran PTU counseling for M.Tech admissions is yet to begin for the 2026 academic year. Generally, the PTU counseling at CGC Landran begins in the month of July each year. Thus, candidates should check for the PTU counseling dates once the GATE results have been declared for 2026.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2121,7 +2199,7 @@
                 "answer_text": "No, the GATE registrations have been closed for CGC Landran M.Tech admissions at this point. The GATE registrations are usually scheduled from the month of August till October of the prior year. The GATE itself is conducted in the month of February of the academic year.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2147,7 +2225,7 @@
                 "answer_text": "CGC Landran M.Tech students need to pay either INR 1.4 Lacs or INR 1.6 Lacs as there hostel fees. The exact hostel fees is dependant on the accomodation chosen by the student. The aforementioned hostel fees remains the same for all M.Tech students of CGC Landran, regardless of the chosen specialisation.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2173,7 +2251,7 @@
                 "answer_text": "The M.Tech fees at CGC Landran in 2026 is INR 2.24 lakh. The aforementioned fees is the common course fees for all M.Tech specialisations offered by CGC Landran. This fees is charged on per annum basis at INR 1.12 Lacs each year. However, candidates can also pay the same in per semester basis at INR 56,000 each.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "4 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2199,7 +2277,7 @@
                 "answer_text": "IIT Gandhinagar M.Tech fee refund information can be obtained from its admission office. There is no official notice on the web. The fee refund amount can vary based on the time of withdrawal or it may not get refunded under any circumstances.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2223,84 +2301,6 @@
                   "profile_url": "https://www.shiksha.com/userprofile/78587044"
                 },
                 "answer_text": "IIT Gandhinagar M.Tech total fee include tuition fee, hostel charges, security deposit, etc. The total course fee is INR 8.36 lakh . This fee amount is as per the official website/ sanctioning body. It is still subject to revision and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does IIT Gandhinagar provide any financial support to M.Tech candidates?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Gandhinagar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Raushan Piplani",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586732"
-                },
-                "answer_text": "IIT Gandhinagar M.Tech (full-time) candidates can apply for a monthly scholarship of INR 12,400 . The candidates may have to submit certain documents to avail this scholarship scheme. This information is as per the official website and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the highest GATE cutoff score for NIT M.Tech admission?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "GATE",
-                "tag_url": "https://www.shiksha.com/engineering/gate-exam"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Piyush Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/78471044"
-                },
-                "answer_text": "The highest GATE cutoff score for NIT M.Tech admission typically ranges from 800 to 850 in the first round . Some of the top NITs include NIT Surathkal, NIT Trichy, and NIT Warangal, accept admissions with GATE score 800 above for branches like EC, CS, ME, and EE. Qualified candidates have to register at the CCMT portal to participate in the GATE counselling. The counselling process will begin in June/July.",
-                "upvotes": 1,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What ME/MTech specialisations are offered at U V College of Engineering?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "College of Engineering",
-                "tag_url": "https://www.shiksha.com/tags/college-of-engineering-tdp-2288409"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Raj Priya",
-                  "profile_url": "https://www.shiksha.com/userprofile/100577002"
-                },
-                "answer_text": "U V College of Engineering offers ME/MTech specializations such as Advanced Manufacturing Systems, CAD and CAM, Computer, Construction engineering and Management, Structural Engg, Electrical Power System, Information technology, BIomedical, Chemical, Artificial Intelligence, renewable energy and VLSI System Design.",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "Yesterday"
