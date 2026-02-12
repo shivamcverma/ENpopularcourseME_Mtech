@@ -450,7 +450,7 @@
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "813Colleges"
+              "college_count": "812Colleges"
             },
             {
               "specialization": "VLSI Design",
@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Mechanical Engineering",
         "Electronics and Communication Engineering",
         "Chemical Engineering",
+        "Aerospace Engineering",
         "Computer Science Engineering",
         "Civil Engineering",
-        "Aerospace Engineering"
+        "Mechanical Engineering"
       ],
       "top_colleges": [
         {
@@ -2043,38 +2043,220 @@
         "stats": {
           "Questions": "11.2k",
           "Discussions": "2",
-          "Active Users": "104",
+          "Active Users": "106",
           "Followers": "13164"
         },
         "questions": [
           {
-            "question_text": "What is a good GATE score for M.Tech at IIT Bombay?",
+            "question_text": "Can we pursue M.Tech distance course at MAIET?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Indian Institute of Technology, IIT Bombay",
-                "tag_url": "https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212"
+                "tag_name": "Maharishi Arvind Institute of Engineering and Technology",
+                "tag_url": "https://www.shiksha.com/college/maharishi-arvind-institute-of-engineering-and-technology-jaipur-38100"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Shiksha Gaurav",
-                  "profile_url": "https://www.shiksha.com/userprofile/78470524"
+                  "name": "Gaurika Chhabra",
+                  "profile_url": "https://www.shiksha.com/userprofile/101123710"
                 },
-                "answer_text": "If you are aiming for branches like computer science, electrical engineering, electronics and communication or mechanical engineering, then a GATE score of 750+ is highly recommended. But if you are aiming for GATE branches, such as Mtech in architecture and planning or aerospace engineering at IIT Bombay, then a GATE score of 600+ is usually needed for admission.",
+                "answer_text": "No, you cannot pursue M.Tech through distance education at MAIET. The mode of study for the offered course is full-time. If a course claims to be distance M.Tech then it's not AICTE recognised.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "an hour ago"
               }
             ]
           },
           {
-            "question_text": "How much GATE score is required for M.Tech at IIT?",
+            "question_text": "What is the admission criteria for BRCM College of Engineering and Technology MTech?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "BRCM College of Engineering and Technology",
+                "tag_url": "https://www.shiksha.com/college/brcm-college-of-engineering-and-technology-bhiwani-19651"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Hazarika",
+                  "profile_url": "https://www.shiksha.com/userprofile/78586670"
+                },
+                "answer_text": "BRCM College of Engineering and Technology M.Tech admission criteria has to be fulfilled to get admission. The eligibility and selection requirements are as below: BRCM College of Engineering and Technology M.Tech eligibility - BTech with a minimum aggregate of 50% BRCM College of Engineering and Technology M.Tech selection process - GATE",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many students are placed during IIT BHU M.Tech placements?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Technology, BHU, Varanasi",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Aayush Singh",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587256"
+                },
+                "answer_text": "As per NIRF report 2025, the number of students placed during M.Tech placements over the past three years is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Graduating students 288 223 Students placed 258 188 Students selected for higher studies 26 30",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How are IIT BHU M.Tech placements?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Technology, BHU, Varanasi",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-technology-bhu-varanasi-3011"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Sharma",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587106"
+                },
+                "answer_text": "According to NIRF report 2025, M.Tech placement highlights 2025 are mentioned below: Particulars MTech Placement Statistics 2024 Median package INR 12 LPA Graduating students 223 Students placed 188 Students selected for higher studies 30",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Do I need to clear a BTech course to be eligible for IIIT Bhubaneshwar M.Tech admission?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "btech",
+                "tag_url": "https://www.shiksha.com/tags/btech-tdp-995229"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "No, BTech is not a mandatory UG level course to be eligible for IIIT Bhubaneshwar M.Tech admissions. Candidates who have cleared a BSc, BPharm, MCA, MSc or MA course in the right disciplines are also eligible to apply for M.Tech admissions at International Institute of Information Technology, Bhubaneswar.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can I apply for M.Tech admissions at IIIT Bhubaneshwar in offline mode?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "IIIT",
+                "tag_url": "https://www.shiksha.com/tags/iiit-tdp-384426"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "International Institute of Information Technology, Bhubaneswar has not mentioned an offline mode of application for the M.Tech admissions. However, it is important to note here that the accepted entrance exam which is GATE, is not open for offline registrations. Candidates who are not applying for GATE or have received their scorecard will need to contact the admission desk of IIIT Bhubaneshwar.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Are IIIT Bhubaneshwar M.Tech admissions open?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "IIIT",
+                "tag_url": "https://www.shiksha.com/tags/iiit-tdp-384426"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "No, the IIIT Bhubaneshwar M.Tech admissions for 2026 are currently not open. The institute usually begins the admission process around the month of August each year for M.Tech courses. The selection of candidates is base on either the GATE or the in-house IIIT Bhubaneshwar M.Tech entrance exam.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Do I have to appear for a written test during IIIT Bhubaneshwar M.Tech admissions if I applied through my GATE score?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "test",
+                "tag_url": "https://www.shiksha.com/tags/test-tdp-918577"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Saurabh Khanduri",
+                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                },
+                "answer_text": "No, candidates who are applying through their GATE score are not required to appear for the Written Test conducted by IIIT Bhubaneshwar for M.Tech admissions. This Written Test is only meant for candidates who did not apply through a valid GATE score. Other candidates will be moved directly to the PI round during M.Tech admissions.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Is GATE a mandatory entrance exam for IIIT Bhubaneshwar M.Tech admissions?",
             "tags": [
               {
                 "tag_name": "M.Tech",
@@ -2089,221 +2271,39 @@
             "answers": [
               {
                 "author": {
-                  "name": "Piyush Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/78471044"
-                },
-                "answer_text": "A GATE score of 700 to 800 is mainly required for M.Tech admission at IIT (especially for top IITs). However, the score also depends on the IIT popularity, branch popularity, and other factors. For new IITs, a GATE score of 500 to 600 is mainly required. It is advised to check the past year's GATE cutoff trends before opting for counselling and admission.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "5 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I download my SRMJEEE M.Tech hall ticket later after exam?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "SRMJEEE",
-                "tag_url": "https://www.shiksha.com/engineering/srmjeee-exam"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Bhumika Uniyal",
-                  "profile_url": "https://www.shiksha.com/userprofile/78470886"
-                },
-                "answer_text": "The admit card of SRMJEEE PG will be available for download till the exam. If you need it for counselling purposes, then it is advised to save and take multiple printouts for future purposes.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "9 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Is GATE mandatory for CGC Landran M.Tech admissions?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Chandigarh Group of Colleges, Landran",
-                "tag_url": "https://www.shiksha.com/college/chandigarh-group-of-colleges-landran-45524"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
                   "name": "Saurabh Khanduri",
                   "profile_url": "https://www.shiksha.com/userprofile/94684016"
                 },
-                "answer_text": "Yes, GATE is a mandatory entrance exam for CGC Landran M.Tech admissions. The selection of candidates for the M.Tech course is done during the PTU counseling. During the PTU counseling round, CGC Landran will look at the GATE score obtained by a candidate to decide their admission.",
+                "answer_text": "No, GATE is not a mandatory entrance exam for securing admissions at IIIT Bhubaneshwar. Candidates who fail to secure a GATE scorecard can still appear for the IIIT Bhubaneshwar M.Tech entrance exam which includes a written test. The syllabus of this written test is the same as the GATE.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 hours ago"
               }
             ]
           },
           {
-            "question_text": "Has the PTU counseling began for CGC Landran M.Tech admissions?",
+            "question_text": "How can I get admission in Central University of Jammu for M.Tech?",
             "tags": [
               {
                 "tag_name": "M.Tech",
                 "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
               },
               {
-                "tag_name": "Chandigarh Group of Colleges, Landran",
-                "tag_url": "https://www.shiksha.com/college/chandigarh-group-of-colleges-landran-45524"
+                "tag_name": "Central University of Jammu",
+                "tag_url": "https://www.shiksha.com/university/central-university-of-jammu-49764"
               }
             ],
             "followers": 0,
             "answers": [
               {
                 "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
+                  "name": "Manashjyoti Piplani",
+                  "profile_url": "https://www.shiksha.com/userprofile/78587300"
                 },
-                "answer_text": "The CGC Landran PTU counseling for M.Tech admissions is yet to begin for the 2026 academic year. Generally, the PTU counseling at CGC Landran begins in the month of July each year. Thus, candidates should check for the PTU counseling dates once the GATE results have been declared for 2026.",
+                "answer_text": "Central University of Jammu offers M.Tech programs in Computer Science & Technology and Electronics & Communication Engineering. Admission is done basis CUET PG exam results.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "Is GATE registration still open for CGC Landran M.Tech admissions?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Chandigarh Group of Colleges, Landran",
-                "tag_url": "https://www.shiksha.com/college/chandigarh-group-of-colleges-landran-45524"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "No, the GATE registrations have been closed for CGC Landran M.Tech admissions at this point. The GATE registrations are usually scheduled from the month of August till October of the prior year. The GATE itself is conducted in the month of February of the academic year.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the hostel fees for the M.Tech students at CGC Landran?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Chandigarh Group of Colleges, Landran",
-                "tag_url": "https://www.shiksha.com/college/chandigarh-group-of-colleges-landran-45524"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "CGC Landran M.Tech students need to pay either INR 1.4 Lacs or INR 1.6 Lacs as there hostel fees. The exact hostel fees is dependant on the accomodation chosen by the student. The aforementioned hostel fees remains the same for all M.Tech students of CGC Landran, regardless of the chosen specialisation.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the fees for the M.Tech courses at CGC Landran?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Chandigarh Group of Colleges, Landran",
-                "tag_url": "https://www.shiksha.com/college/chandigarh-group-of-colleges-landran-45524"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "The M.Tech fees at CGC Landran in 2026 is INR 2.24 lakh. The aforementioned fees is the common course fees for all M.Tech specialisations offered by CGC Landran. This fees is charged on per annum basis at INR 1.12 Lacs each year. However, candidates can also pay the same in per semester basis at INR 56,000 each.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "How to apply for M.Tech fee refund in IIT Gandhinagar?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Gandhinagar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Mohit Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586840"
-                },
-                "answer_text": "IIT Gandhinagar M.Tech fee refund information can be obtained from its admission office. There is no official notice on the web. The fee refund amount can vary based on the time of withdrawal or it may not get refunded under any circumstances.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the cost of studying M.Tech from IIT Gandhinagar?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Gandhinagar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-gandhinagar-indian-institute-of-technology-32705"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Virajita Madavi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587044"
-                },
-                "answer_text": "IIT Gandhinagar M.Tech total fee include tuition fee, hostel charges, security deposit, etc. The total course fee is INR 8.36 lakh . This fee amount is as per the official website/ sanctioning body. It is still subject to revision and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "7 hours ago"
               }
             ]
           }
