@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Computer Science Engineering",
-        "Mechanical Engineering",
         "Electronics and Communication Engineering",
-        "Chemical Engineering",
         "Civil Engineering",
-        "Aerospace Engineering"
+        "Computer Science Engineering",
+        "Chemical Engineering",
+        "Aerospace Engineering",
+        "Mechanical Engineering"
       ],
       "top_colleges": [
         {
@@ -2048,10 +2048,36 @@
         "stats": {
           "Questions": "11.2k",
           "Discussions": "2",
-          "Active Users": "103",
+          "Active Users": "102",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "What is a good GATE score for M.Tech at IIT Bombay?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Technology, IIT Bombay",
+                "tag_url": "https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Gaurav Bhatt",
+                  "profile_url": "https://www.shiksha.com/userprofile/101537838"
+                },
+                "answer_text": "Specialization (General Category) Approx. GATE Score Computer Science & Engineering ~750 Civil Engineering (Structures) ~675 Mechanical / Thermal & Fluids ~600 Electrical Engineering (various) ~510 Biomedical Engineering ~400 Earth Sciences ~325",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "14 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "What is the median package recorded during Jamia Hamdard M.Tech placements?",
             "tags": [
@@ -2074,7 +2100,7 @@
                 "answer_text": "The median package recorded during Jamia Hamdard M.Tech placements 2024 was INR 6.2 LPA. In 2023 and 2022, M.Tech median package was 5.9 LPA and 4.3 LPA.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2100,7 +2126,7 @@
                 "answer_text": "Students placed during Jamia Hamdard M.Tech placements in the past three years is mentioned below: Particulars MTech Placement Statistics 2022 MTech Placement Statistics 2023 MTech Placement Statistics 2024 Graduating students 45 25 60 Students placed 21 14 42 Students selected for higher studies 13 11 16",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2126,7 +2152,7 @@
                 "answer_text": "No, candidates who wish to apply for admissions to the NIT Srinagar PhD course are not required to cleared a ME or M.Tech course to be eligible. Candidates who have appeared for a MSc course in the relevant stream can also apply for PhD admissions. However, such candidates must appear for the GATE or UGC NET before applying for NIT Srinagar PhD admissions.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2152,7 +2178,7 @@
                 "answer_text": "Candidates who are applying for PhD courses from the engineering department such as NIT Jalandhar chemical engineering or NIT Jalandhar civil engineering departments must have a ME/MTech degree of the relevant field. However, NIT Jalandhar also offers PhD courses in Humanities, Science and Management sectors where, an ME/MTech degree is not required.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2178,7 +2204,7 @@
                 "answer_text": "No, you cannot pursue M.Tech through distance education at MAIET. The mode of study for the offered course is full-time. If a course claims to be distance M.Tech then it's not AICTE recognised.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2204,7 +2230,7 @@
                 "answer_text": "BRCM College of Engineering and Technology M.Tech admission criteria has to be fulfilled to get admission. The eligibility and selection requirements are as below: BRCM College of Engineering and Technology M.Tech eligibility - BTech with a minimum aggregate of 50% BRCM College of Engineering and Technology M.Tech selection process - GATE",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2230,7 +2256,7 @@
                 "answer_text": "As per NIRF report 2025, the number of students placed during M.Tech placements over the past three years is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Graduating students 288 223 Students placed 258 188 Students selected for higher studies 26 30",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2256,7 +2282,7 @@
                 "answer_text": "According to NIRF report 2025, M.Tech placement highlights 2025 are mentioned below: Particulars MTech Placement Statistics 2024 Median package INR 12 LPA Graduating students 223 Students placed 188 Students selected for higher studies 30",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2282,33 +2308,7 @@
                 "answer_text": "No, BTech is not a mandatory UG level course to be eligible for IIIT Bhubaneshwar M.Tech admissions. Candidates who have cleared a BSc, BPharm, MCA, MSc or MA course in the right disciplines are also eligible to apply for M.Tech admissions at International Institute of Information Technology, Bhubaneswar.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Can I apply for M.Tech admissions at IIIT Bhubaneshwar in offline mode?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIIT",
-                "tag_url": "https://www.shiksha.com/tags/iiit-tdp-384426"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Saurabh Khanduri",
-                  "profile_url": "https://www.shiksha.com/userprofile/94684016"
-                },
-                "answer_text": "International Institute of Information Technology, Bhubaneswar has not mentioned an offline mode of application for the M.Tech admissions. However, it is important to note here that the accepted entrance exam which is GATE, is not open for offline registrations. Candidates who are not applying for GATE or have received their scorecard will need to contact the admission desk of IIIT Bhubaneshwar.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
+                "posted_time": "3 days ago"
               }
             ]
           }
