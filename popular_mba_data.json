@@ -438,43 +438,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2272  Colleges"
+              "college_count": "2272Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1093  Colleges"
+              "college_count": "1093Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "827  Colleges"
+              "college_count": "827Colleges"
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "812  Colleges"
+              "college_count": "812Colleges"
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "795  Colleges"
+              "college_count": "795Colleges"
             },
             {
               "specialization": "Power Engineering",
-              "college_count": "786  Colleges"
+              "college_count": "786Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "594  Colleges"
+              "college_count": "594Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "563  Colleges"
+              "college_count": "563Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "553  Colleges"
+              "college_count": "553Colleges"
             },
             {
               "specialization": "Communications Engineering",
-              "college_count": "389  Colleges"
+              "college_count": "389Colleges"
             }
           ]
         }
@@ -1301,12 +1301,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Electronics and Communication Engineering",
-        "Civil Engineering",
-        "Computer Science Engineering",
         "Chemical Engineering",
+        "Computer Science Engineering",
+        "Electronics and Communication Engineering",
+        "Mechanical Engineering",
         "Aerospace Engineering",
-        "Mechanical Engineering"
+        "Civil Engineering"
       ],
       "top_colleges": [
         {
@@ -2074,7 +2074,7 @@
                 "answer_text": "Specialization (General Category) Approx. GATE Score Computer Science & Engineering ~750 Civil Engineering (Structures) ~675 Mechanical / Thermal & Fluids ~600 Electrical Engineering (various) ~510 Biomedical Engineering ~400 Earth Sciences ~325",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "14 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
