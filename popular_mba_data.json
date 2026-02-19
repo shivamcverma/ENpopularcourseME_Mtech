@@ -444,7 +444,7 @@
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1093Colleges"
+              "college_count": "1092Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
@@ -452,7 +452,7 @@
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "811Colleges"
+              "college_count": "810Colleges"
             },
             {
               "specialization": "VLSI Design",
@@ -1303,12 +1303,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Aerospace Engineering",
         "Computer Science Engineering",
+        "Electronics and Communication Engineering",
+        "Civil Engineering",
         "Mechanical Engineering",
         "Chemical Engineering",
-        "Electronics and Communication Engineering",
-        "Civil Engineering"
+        "Aerospace Engineering"
       ],
       "top_colleges": [
         {
@@ -2050,10 +2050,36 @@
         "stats": {
           "Questions": "11.3k",
           "Discussions": "2",
-          "Active Users": "106",
+          "Active Users": "108",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "Who can apply for M.Tech at IIIT Bhubaneswar?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "International Institute of Information Technology, Bhubaneswar",
+                "tag_url": "https://www.shiksha.com/university/international-institute-of-information-technology-bhubaneswar-23733"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Aspirants must pass BTech/BE from a recognised university with 60% aggregate or 6.5 CGPA in relevant subjects to apply for M.Tech at IIIT Bhubaneswar. Candidates must have documents proving their eligibility for verification at the time of admission.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
           {
             "question_text": "Which is more economical for M.Tech among IIT Bhubaneswar and NIT Rourkela?",
             "tags": [
@@ -2076,7 +2102,7 @@
                 "answer_text": "IIT Bhubaneswar tuition fee for two-year M.Tech is INR 20,000 . While the tuition fee amount is INR 1.4 lakh at NIT Rourkela. Considering this, studying at IIT Bhubaneswar is economical. However, students can consider other factors as well during college selection. The mentioned fee is as per official website or the sanctioning body. It is still subject to revision and hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2102,7 +2128,7 @@
                 "answer_text": "Candidates who get a seat in COAP counselling need to pay a fee of INR 20,000 to accept and freeze the seat. This fee is as per an old notification and is subject to revision. Hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2128,7 +2154,7 @@
                 "answer_text": "IIT Bhubaneswar has a seat intake of 15 in total for M.Tech in Structural Engineering. The candidates are admitted as per sanctioned intake. This total sanctioned intake is bifucated as below: General category: 6 seats EWS: 2 seats OBC: 4 seats SC: 2 seats ST: 1 seat This seat information is as per the official website. Hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2154,7 +2180,7 @@
                 "answer_text": "IIT Bhubaneswar M.Tech (Climate Science and Technology) course curriculum include core and elective subjects. The electives list is bifurcated into two parts for each academic year. Some of the elctives offered in this programme are: Science of Climate and Climate Change Data Structure and Information Technology Mountain Meteorology Glaciology and Paleoclimate Marine Biotechnology Weather Analysis and Forecasting, etc.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2180,7 +2206,7 @@
                 "answer_text": "IIT Bhubaneswar M.Tech CSE syllabus include semester-wise list of covered topics. Some of the core courses included in the curriculum are: Cloud Computing Networks and Systems Security High Performance Computing Architecture Advanced Algorithms",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2206,7 +2232,7 @@
                 "answer_text": "Candidates applying for M.Tech at IIT Bhubaneswar under sponsored category have to pay a fee of INR 25,000 , per semester. The total fee for sponsored category candidates is INR 1 Lacs for the two-year course. This fee is as per official sources and hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2232,7 +2258,7 @@
                 "answer_text": "The placement trend witnessed during AMU M.Tech placements over the past two years is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Median package INR 5.87 LPA INR 6.25 LPA Number of Graduating Students 134 173 Students Placed 18 24 Students Selected for Higher Studies 53 66",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2258,7 +2284,7 @@
                 "answer_text": "The number of students placed in past two years during AMU M.Tech placements is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Number of Graduating Students 134 173 Students Placed 18 24 Students Selected for Higher Studies 53 66",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2284,33 +2310,7 @@
                 "answer_text": "MTech placement highlights 2024 at AMU are mentioned below: Particulars MTech Placement Statistics 2024 Median package INR 6.25 LPA Number of Graduating Students 173 Students Placed 24 Students Selected for Higher Studies 66",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "How much is the caution money deposit in IIT Bhubaneswar M.Tech fee structure?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Raushan Piplani",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586732"
-                },
-                "answer_text": "IIT Bhubaneswar M.Tech fee includes a caution deposit of INR 12,000 . It is a refundable fee component and one-time chargeable. This fee is as per the official website/ sanctionin body. It is still subject to revision and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           }
