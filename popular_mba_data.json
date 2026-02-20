@@ -1303,10 +1303,10 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Computer Science Engineering",
-        "Electronics and Communication Engineering",
-        "Civil Engineering",
         "Mechanical Engineering",
+        "Computer Science Engineering",
+        "Civil Engineering",
+        "Electronics and Communication Engineering",
         "Chemical Engineering",
         "Aerospace Engineering"
       ],
@@ -2055,6 +2055,136 @@
         },
         "questions": [
           {
+            "question_text": "Who can apply for e-MTech at IIIT Kottayam?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Kottayam",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Aspirants need to complete BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for e-MTech programme at IIIT Kottayam.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "2 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility for M.Tech for Working Professionals at IIIT Kottayam?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Kottayam",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Aspirants must pass BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for M.Tech for Working Professionals programme at IIIT Kottayam. Candidates should also be currently employed. The institute only considers the employment acquired after the qualifying degree is awarded.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Who is eligible for Integrated M.Tech at IIIT Kottayam?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Information Technology, Kottayam",
+                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Nishtha Shukla",
+                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
+                },
+                "answer_text": "Aspirants must complete Class 12 in Science with Mathematics/ Diploma or equivalent educational qualification to apply for Integrated M.Tech for Working Professionals programme. Aspirants must be employed in Industry/ R & D/ Academia at the time of applying.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the fee of M.Tech in Medical Devices (Pharmacy) at NIPER Guwahati?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "National Institute of Pharmaceutical Education and Research S.A.S. Nagar",
+                "tag_url": "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-s-a-s-nagar-punjab-other-23374"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "heena agrawaltry to give best solution..",
+                  "profile_url": "https://www.shiksha.com/userprofile/4889108"
+                },
+                "answer_text": "Hi. Tuition Fee (2‑Year M.Tech) ₹1,90,495 – Approximate total tuition fee for the full 2‑year programme (General/OBC/EWS/PH category). Other Fee Components In addition to tuition, there are some standard additional charges often applicable (approximate values): Hostel fee: ~₹12,650 (for the entire course)",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "How many seats are offered for M.Tech in Medical Devices (Pharmacy) at NIPER Guwahati?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "National Institute of Pharmaceutical Education and Research S.A.S. Nagar",
+                "tag_url": "https://www.shiksha.com/college/national-institute-of-pharmaceutical-education-and-research-s-a-s-nagar-punjab-other-23374"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "heena agrawaltry to give best solution..",
+                  "profile_url": "https://www.shiksha.com/userprofile/4889108"
+                },
+                "answer_text": "Hi. M.Tech in Medical Devices (Pharmacy) – Seat Details Total seats: 16 for the entire programme. These are distributed roughly across categories such as: General (Unreserved) OBC SC ST EWS (Exact category‑wise splits may vary slightly each year based on reservation rules.)",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "Who can apply for M.Tech at IIIT Bhubaneswar?",
             "tags": [
               {
@@ -2076,7 +2206,7 @@
                 "answer_text": "Aspirants must pass BTech/BE from a recognised university with 60% aggregate or 6.5 CGPA in relevant subjects to apply for M.Tech at IIIT Bhubaneswar. Candidates must have documents proving their eligibility for verification at the time of admission.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "6 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2178,136 +2308,6 @@
                   "profile_url": "https://www.shiksha.com/userprofile/40233449"
                 },
                 "answer_text": "IIT Bhubaneswar M.Tech (Climate Science and Technology) course curriculum include core and elective subjects. The electives list is bifurcated into two parts for each academic year. Some of the elctives offered in this programme are: Science of Climate and Climate Change Data Structure and Information Technology Mountain Meteorology Glaciology and Paleoclimate Marine Biotechnology Weather Analysis and Forecasting, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the core topics in the IIT Bhubaneswar M.Tech CSE course?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Virajita Madavi",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587044"
-                },
-                "answer_text": "IIT Bhubaneswar M.Tech CSE syllabus include semester-wise list of covered topics. Some of the core courses included in the curriculum are: Cloud Computing Networks and Systems Security High Performance Computing Architecture Advanced Algorithms",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the IIT Bhubaneswar M.Tech fee for sponsored category candidates?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Mohit Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586840"
-                },
-                "answer_text": "Candidates applying for M.Tech at IIT Bhubaneswar under sponsored category have to pay a fee of INR 25,000 , per semester. The total fee for sponsored category candidates is INR 1 Lacs for the two-year course. This fee is as per official sources and hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the AMU M.Tech placement trend in past few years?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Aligarh Muslim University",
-                "tag_url": "https://www.shiksha.com/university/aligarh-muslim-university-29839"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Chandra Thakur",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587360"
-                },
-                "answer_text": "The placement trend witnessed during AMU M.Tech placements over the past two years is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Median package INR 5.87 LPA INR 6.25 LPA Number of Graduating Students 134 173 Students Placed 18 24 Students Selected for Higher Studies 53 66",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "How many students are placed during AMU M.Tech placements?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Aligarh Muslim University",
-                "tag_url": "https://www.shiksha.com/university/aligarh-muslim-university-29839"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Arora",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587558"
-                },
-                "answer_text": "The number of students placed in past two years during AMU M.Tech placements is mentioned below: Particulars MTech Placement Statistics 2023 MTech Placement Statistics 2024 Number of Graduating Students 134 173 Students Placed 18 24 Students Selected for Higher Studies 53 66",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "How are AMU M.Tech placements?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Aligarh Muslim University",
-                "tag_url": "https://www.shiksha.com/university/aligarh-muslim-university-29839"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Sharma",
-                  "profile_url": "https://www.shiksha.com/userprofile/78587106"
-                },
-                "answer_text": "MTech placement highlights 2024 at AMU are mentioned below: Particulars MTech Placement Statistics 2024 Median package INR 6.25 LPA Number of Graduating Students 173 Students Placed 24 Students Selected for Higher Studies 66",
                 "upvotes": 0,
                 "downvotes": 0,
                 "posted_time": "Yesterday"
