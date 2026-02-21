@@ -440,7 +440,7 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2273Colleges"
+              "college_count": "2274Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
@@ -448,15 +448,15 @@
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "826Colleges"
+              "college_count": "827Colleges"
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "810Colleges"
+              "college_count": "809Colleges"
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "796Colleges"
+              "college_count": "797Colleges"
             },
             {
               "specialization": "Power Engineering",
@@ -1303,12 +1303,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Mechanical Engineering",
-        "Computer Science Engineering",
         "Civil Engineering",
-        "Electronics and Communication Engineering",
+        "Aerospace Engineering",
         "Chemical Engineering",
-        "Aerospace Engineering"
+        "Electronics and Communication Engineering",
+        "Computer Science Engineering",
+        "Mechanical Engineering"
       ],
       "top_colleges": [
         {
@@ -1857,7 +1857,13 @@
           "intro": {
             "emphasis_text": "Engineering as a career is very lucrative. Let us check why this is so and what makes engineering career so popular still today.",
             "paragraphs": [
-              "Engineering is still a highly paid career stream in India and worldwide because of simple phenomenon called “supply versus demand” . The relentless advancement of technology has fueled demand for engineers across industries. Against this, number of skilled professionals always falls short of demand, creating a competitive market that drives up salaries. Many other factors lead to sprouting of engineering careers that are very lucrative."
+              "Engineering is still a highly paid career stream in India and worldwide because of simple phenomenon called “supply versus demand” . The relentless advancement of technology has fueled demand for engineers across industries. Against this, number of skilled professionals always falls short of demand, creating a competitive market that drives up salaries. Many other factors lead to sprouting of engineering careers that are very lucrative.",
+              "To get into field of engineering , a student can start by selecting science or IT & software as their subject preference in higher education. Thereafter, they can apply for admission in top engineering colleges in India like IITs, NITs and IIITs. Apart from IITs, NITs and IIITs, many other colleges provide great engineering education, like BITS Pilani, VIT, Amrita University, SRMIST, Jadavpur University, and many more.",
+              "The degree that leads candidates to land a career in Engineering is BTech / BE . Further candidates can also pursue Master's with MTech / ME degree. The scope of research is also immense in engineering with a PhD in engineering.",
+              "Also Read:",
+              "Let's understand why engineering is so lucrative all over globe more than any other profession. Further, we will also discuss which engineering professions are most in demand and are highly paid.",
+              "There are several reasons why engineering is a highly paid career option, like:",
+              "Also Read: Engineering Stream Popularity Trends in Last 5 Years"
             ],
             "images": [
               {
@@ -1871,63 +1877,15 @@
             {
               "content": {
                 "paragraphs": [
-                  "To get into field of engineering , a student can start by selecting science or IT & software as their subject preference in higher education. Thereafter, they can apply for admission in top engineering colleges in India like IITs, NITs and IIITs. Apart from IITs, NITs and IIITs, many other colleges provide great engineering education, like BITS Pilani, VIT, Amrita University, SRMIST, Jadavpur University, and many more."
-                ]
-              }
-            },
-            {
-              "content": {
-                "paragraphs": [
-                  "The degree that leads candidates to land a career in Engineering is BTech / BE . Further candidates can also pursue Master's with MTech / ME degree. The scope of research is also immense in engineering with a PhD in engineering."
-                ]
-              }
-            },
-            {
-              "content": {
-                "paragraphs": [
-                  "Let's understand why engineering is so lucrative all over globe more than any other profession. Further, we will also discuss which engineering professions are most in demand and are highly paid.",
-                  "There are several reasons why engineering is a highly paid career option, like:"
-                ]
-              }
-            },
-            {
-              "content": {
-                "paragraphs": [
                   "Payscale is a trusted website that provides salary data from both traditional and nontraditional sources. As per Payscale, the top-paid engineering professions in India are as follows:",
                   "It is important to note that these are just average salaries, and actual salaries can vary depending on experience, skills, location, and company."
                 ]
               }
             }
           ],
-          "also_read": [
-            {
-              "title": "Top Engineering Colleges in India other than IIT, NIT and IIIT",
-              "url": "https://www.shiksha.com/engineering/articles/top-engineering-colleges-in-india-other-than-iit-nit-and-iiit-blogId-144327"
-            },
-            {
-              "title": "List of Top IITs in India: NIRF Ranking, Courses, Seats, Fees & Placement",
-              "url": "https://www.shiksha.com/engineering/articles/iits-in-india-blogId-12884"
-            },
-            {
-              "title": "List of NIT Colleges in India - NIRF Ranking, Courses, Seats, Cutoff, Fees and Placement",
-              "url": "https://www.shiksha.com/engineering/articles/nits-in-india-blogId-20003"
-            },
-            {
-              "title": "List of IIITs in India: NIRF Ranking, Courses offered, seats & cutoffs",
-              "url": "https://www.shiksha.com/engineering/articles/iiits-in-india-blogId-19997"
-            },
-            {
-              "title": "Engineering Stream Popularity Trends in Last 5 Years",
-              "url": "https://www.shiksha.com/engineering/articles/engineering-stream-popularity-trends-in-last-5-years-blogId-144539"
-            }
-          ],
+          "also_read": [],
           "videos_you_may_like": [],
-          "register_widget": {
-            "image": "https://images.shiksha.ws/pwa/public/images/ir-image.svg",
-            "heading": "Staying updated about the latest educational events is just a click away",
-            "mobile_text": null,
-            "button_text": "Register Now"
-          },
+          "register_widget": {},
           "high_paid_jobs_table": [
             {
               "Rank": {
@@ -2050,10 +2008,62 @@
         "stats": {
           "Questions": "11.3k",
           "Discussions": "2",
-          "Active Users": "108",
+          "Active Users": "110",
           "Followers": "13164"
         },
         "questions": [
+          {
+            "question_text": "Does IISc Bangalore offer M.Tech in Aerospace Engineering?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Indian Institute of Science",
+                "tag_url": "https://www.shiksha.com/university/indian-institute-of-science-bangalore-22350"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "vishnu harry",
+                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
+                },
+                "answer_text": "When it comes to pursuing M.Tech in Aerospace Engineering, Lovely Professional University offers a pathway that blends scientific depth with real-world application. The programme explores advanced domains such as aerodynamics, propulsion, flight mechanics, aircraft structures, and computational analysis supported by modern laboratories and research-focused learning. With project-based training, industry exposure, and a strong technical foundation, it is designed to prepare engineers for dynamic careers in aviation, defence technology, space research, and emerging aerospace innovations.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "10 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the eligibility criteria for M.Tech course at IIT Bhubaneswar?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Vishakha Kumar",
+                  "profile_url": "https://www.shiksha.com/userprofile/78589452"
+                },
+                "answer_text": "IIT Bhubaneswar offers M.Tech course to students at the PG level. It is offered for 2 years in several specialisations. To be eligible for M.Tech at IIT Bhubaneswar, candidates must fulfil the eligibility criteria of the course. Candidates must have a BTech degree with at least 60% aggregate from a recognised university.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "Yesterday"
+              }
+            ]
+          },
           {
             "question_text": "Who can apply for e-MTech at IIIT Kottayam?",
             "tags": [
@@ -2076,7 +2086,7 @@
                 "answer_text": "Aspirants need to complete BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for e-MTech programme at IIIT Kottayam.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2102,7 +2112,7 @@
                 "answer_text": "Aspirants must pass BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for M.Tech for Working Professionals programme at IIIT Kottayam. Candidates should also be currently employed. The institute only considers the employment acquired after the qualifying degree is awarded.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2128,7 +2138,7 @@
                 "answer_text": "Aspirants must complete Class 12 in Science with Mathematics/ Diploma or equivalent educational qualification to apply for Integrated M.Tech for Working Professionals programme. Aspirants must be employed in Industry/ R & D/ Academia at the time of applying.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "3 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2154,7 +2164,7 @@
                 "answer_text": "Hi. Tuition Fee (2‑Year M.Tech) ₹1,90,495 – Approximate total tuition fee for the full 2‑year programme (General/OBC/EWS/PH category). Other Fee Components In addition to tuition, there are some standard additional charges often applicable (approximate values): Hostel fee: ~₹12,650 (for the entire course)",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2180,7 +2190,7 @@
                 "answer_text": "Hi. M.Tech in Medical Devices (Pharmacy) – Seat Details Total seats: 16 for the entire programme. These are distributed roughly across categories such as: General (Unreserved) OBC SC ST EWS (Exact category‑wise splits may vary slightly each year based on reservation rules.)",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "5 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2206,7 +2216,7 @@
                 "answer_text": "Aspirants must pass BTech/BE from a recognised university with 60% aggregate or 6.5 CGPA in relevant subjects to apply for M.Tech at IIIT Bhubaneswar. Candidates must have documents proving their eligibility for verification at the time of admission.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "2 days ago"
               }
             ]
           },
@@ -2232,7 +2242,7 @@
                 "answer_text": "IIT Bhubaneswar tuition fee for two-year M.Tech is INR 20,000 . While the tuition fee amount is INR 1.4 lakh at NIT Rourkela. Considering this, studying at IIT Bhubaneswar is economical. However, students can consider other factors as well during college selection. The mentioned fee is as per official website or the sanctioning body. It is still subject to revision and hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           },
@@ -2258,59 +2268,7 @@
                 "answer_text": "Candidates who get a seat in COAP counselling need to pay a fee of INR 20,000 to accept and freeze the seat. This fee is as per an old notification and is subject to revision. Hence, is indicative.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "How many seats are available for M.Tech in Structural Engineering at IIT Bhubaneswar?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Himanshi Gupta",
-                  "profile_url": "https://www.shiksha.com/userprofile/78586782"
-                },
-                "answer_text": "IIT Bhubaneswar has a seat intake of 15 in total for M.Tech in Structural Engineering. The candidates are admitted as per sanctioned intake. This total sanctioned intake is bifucated as below: General category: 6 seats EWS: 2 seats OBC: 4 seats SC: 2 seats ST: 1 seat This seat information is as per the official website. Hence, is indicative.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What are the elective subjects offered in the IIT Bhubaneswar M.Tech in Climate Science and Technology?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Manori Sahni",
-                  "profile_url": "https://www.shiksha.com/userprofile/40233449"
-                },
-                "answer_text": "IIT Bhubaneswar M.Tech (Climate Science and Technology) course curriculum include core and elective subjects. The electives list is bifurcated into two parts for each academic year. Some of the elctives offered in this programme are: Science of Climate and Climate Change Data Structure and Information Technology Mountain Meteorology Glaciology and Paleoclimate Marine Biotechnology Weather Analysis and Forecasting, etc.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "Yesterday"
+                "posted_time": "3 days ago"
               }
             ]
           }
