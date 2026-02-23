@@ -440,43 +440,43 @@
           "specializations": [
             {
               "specialization": "Computer Science Engineering",
-              "college_count": "2274Colleges"
+              "college_count": "2274  Colleges"
             },
             {
               "specialization": "Mechanical Engineering",
-              "college_count": "1092Colleges"
+              "college_count": "1092  Colleges"
             },
             {
               "specialization": "Electronics & Communication Engineering",
-              "college_count": "827Colleges"
+              "college_count": "827  Colleges"
             },
             {
               "specialization": "Structural Engineering",
-              "college_count": "809Colleges"
+              "college_count": "809  Colleges"
             },
             {
               "specialization": "VLSI Design",
-              "college_count": "797Colleges"
+              "college_count": "797  Colleges"
             },
             {
               "specialization": "Power Engineering",
-              "college_count": "785Colleges"
+              "college_count": "785  Colleges"
             },
             {
               "specialization": "Electrical Engineering",
-              "college_count": "595Colleges"
+              "college_count": "595  Colleges"
             },
             {
               "specialization": "Civil Engineering",
-              "college_count": "564Colleges"
+              "college_count": "564  Colleges"
             },
             {
               "specialization": "Electronics Engineering",
-              "college_count": "555Colleges"
+              "college_count": "555  Colleges"
             },
             {
               "specialization": "Communications Engineering",
-              "college_count": "389Colleges"
+              "college_count": "389  Colleges"
             }
           ]
         }
@@ -1303,12 +1303,12 @@
       "biotech_jobs": [],
       "civil_jobs": [],
       "top_recruiters": [
-        "Civil Engineering",
-        "Aerospace Engineering",
+        "Mechanical Engineering",
         "Computer Science Engineering",
-        "Chemical Engineering",
+        "Aerospace Engineering",
         "Electronics and Communication Engineering",
-        "Mechanical Engineering"
+        "Chemical Engineering",
+        "Civil Engineering"
       ],
       "top_colleges": [
         {
@@ -2013,6 +2013,188 @@
         },
         "questions": [
           {
+            "question_text": "What is the average package recorded during IIT Indore M.Tech placements?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "IIT Indore - Indian Institute of Technology",
+                "tag_url": "https://www.shiksha.com/college/iit-indore-indian-institute-of-technology-38240"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "diksha soni",
+                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                },
+                "answer_text": "The average package recorderd during IIT Indore M.Tech placements was INR 14.6 LPA. The data tabulated below states the same: Particulars Placement Statistics (2025) Average Package INR 14.60 LPA",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "26 mins ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the average package recorded during Assam Don Bosco University M.Tech placements?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "ADBU - Assam Don Bosco University",
+                "tag_url": "https://www.shiksha.com/university/adbu-assam-don-bosco-university-guwahati-38046"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "diksha soni",
+                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                },
+                "answer_text": "The average package for M.Tech is yet to be released. Once out, it will be updated here. Meanwhile, students can have a look at the median package recorded in 2024: Particulars MTech Placement Statistics (2023) MTech Placement Statistics (2024) Median Package INR 1.92 LPA INR 2.16 LPA NOTE: The data tabulated above has been taken from the NIRF Report 2025.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What are the M.Tech placement statistics at Assam Don Bosco University?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "ADBU - Assam Don Bosco University",
+                "tag_url": "https://www.shiksha.com/university/adbu-assam-don-bosco-university-guwahati-38046"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "diksha soni",
+                  "profile_url": "https://www.shiksha.com/userprofile/22679155"
+                },
+                "answer_text": "Assam Don Bosco provides decent placements to its M.Tech students. In 2024,  2 M.Tech students were placed with a median package of INR 2.16 LPA. See the table below to know more: Particulars MTech Placement Statistics (2023) MTech Placement Statistics (2024) Total Students 18 6 Students Placed 1 2 Median Package INR 1.92 LPA INR 2.16 LPA NOTE: The data above has been taken from the NIRF Report 2025",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "3 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What entrance exam is accepted at Jerusalem College of Engineering for ME/MTech course?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "College of Engineering",
+                "tag_url": "https://www.shiksha.com/tags/college-of-engineering-tdp-2288409"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Raj Priya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100577002"
+                },
+                "answer_text": "Jerusalem College of Engineering accepts GATE/ CEETA PG exam score. Students also have to fill online application form of the college to apply for this course. This information may vary due to lack of precise information on the college website.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "4 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "Can you guide me in this regard & suggest the best one? My son is interested in doing M.Tech Designing & Urban Development course.",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "LPU - Lovely Professional University",
+                "tag_url": "https://www.shiksha.com/university/lpu-lovely-professional-university-jalandhar-28499"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "udit Katiyar",
+                  "profile_url": "https://www.shiksha.com/userprofile/101254998"
+                },
+                "answer_text": "If your son is interested in M.Tech in Designing & Urban Development, it is important to choose an institute that offers strong planning fundamentals, studio-based learning, and exposure to real urban projects. At Lovely Professional University, the M.Plan (Urban & Regional Planning) or related planning/design programmes focus on sustainable cities, infrastructure planning, GIS, transport systems, and urban policy. The small intake allows personalised mentoring, studio work, and field-based projects.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "5 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the duration of ME/MTech course at Jerusalem College of Engineering?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "College of Engineering",
+                "tag_url": "https://www.shiksha.com/tags/college-of-engineering-tdp-2288409"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "Raj Priya",
+                  "profile_url": "https://www.shiksha.com/userprofile/100577002"
+                },
+                "answer_text": "ME/MTech course at Jerusalem College of Engineering is of two-year long. The entire course is divided into four semesters. The college offers ME course in various specialisations.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "6 hours ago"
+              }
+            ]
+          },
+          {
+            "question_text": "What is the seat intake for National Institute of Pharmaceutical Education and Research, Guwahati M.Tech in Medical Devices course in 2026?",
+            "tags": [
+              {
+                "tag_name": "M.Tech",
+                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
+              },
+              {
+                "tag_name": "Institute of Pharmaceutical Education and Research",
+                "tag_url": "https://www.shiksha.com/college/institute-of-pharmaceutical-education-and-research-wardha-147847"
+              }
+            ],
+            "followers": 0,
+            "answers": [
+              {
+                "author": {
+                  "name": "heena agrawaltry to give best solution..",
+                  "profile_url": "https://www.shiksha.com/userprofile/4889108"
+                },
+                "answer_text": "Hi. 16 seats in total for the M.Tech in Medical Devices programme. This includes seats across all categories (General, OBC, SC, ST, EWS) as allocated by the institute.",
+                "upvotes": 0,
+                "downvotes": 0,
+                "posted_time": "7 hours ago"
+              }
+            ]
+          },
+          {
             "question_text": "Which colleges accept GATE score of 500 for M.Tech admission in CSE?",
             "tags": [
               {
@@ -2034,7 +2216,7 @@
                 "answer_text": "Here are some colleges that offer M.Tech admission in CSE round - Guru Ghasidas Vishwavidyalaya, Bilaspur Central University of Rajasthan Sant Longowal Institute of Engineering and Technology Central Institute of Technology, Kokrajhar Central University of Rajasthan Guru Ghasidas Vishwavidyalaya, Bilaspur Sant Longowal Institute of Engineering and Technology",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "2 hours ago"
+                "posted_time": "21 hours ago"
               }
             ]
           },
@@ -2060,7 +2242,7 @@
                 "answer_text": "MTech in CSE, ECE, ME, CE, DA, and EE usually have the highest salaries in India. Many IITs and IIITs offer placement packages over 50 LPA. However, the average package remains around 20 to 30 LPA. For subjects like EE, CE, and ME opportunities for high salaries are mainly through PSU jobs, as these are core branches.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
+                "posted_time": "Yesterday"
               }
             ]
           },
@@ -2086,189 +2268,7 @@
                 "answer_text": "There are 20000+ seats for M.Tech admission through GATE including IITs, NITs, and IISc admission. Each IITs have an approximately seat intake of 1000+ seats. On the other hand, NITs, IIITs, and GFTIs, have around 20000+ seats.",
                 "upvotes": 0,
                 "downvotes": 0,
-                "posted_time": "18 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Which NITs accept GATE score 500 for M.Tech admission?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "NIT",
-                "tag_url": "https://www.shiksha.com/tags/nit-tdp-384425"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Sumridhi Sinha",
-                  "profile_url": "https://www.shiksha.com/userprofile/78470570"
-                },
-                "answer_text": "Many new NITs do accept 500 score in GATE for M.Tech admission. Here are some NITs that accept GATE scores between 400 - 500 - National Institute of Technology, Tiruchirappalli Visvesvaraya National Institute of Technology, Nagpur National Institute of Technology, Silchar National Institute of Technology, Warangal NIT Mizoram NIT Raipur NIT Agartala NIT Arunachal Pradesh",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the required GATE Score for M.Tech admission?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "GATE",
-                "tag_url": "https://www.shiksha.com/engineering/gate-exam"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Himanshi Choudhury",
-                  "profile_url": "https://www.shiksha.com/userprofile/78470658"
-                },
-                "answer_text": "Based on previous year's cutoff trends and experts analysis, here is an expected GATE score range required for M.Tech admission - GATE Score Range MTech options 300 to 400 MTech in any state government college. Also, aspirants can apply for other exams. GATE Score 500 to 600 The maximum chances of getting into a state government college. Few new NITs options (specific branches or category) 600 to 700 score in GATE Top NITs (in-demand branches) and few new IITs GATE score 700 to 800 Top NITs, IITs, and IISc, High chances for PSU recruitment GATE score 800 to 900 MTech or MSc  in Top IITs (core branches), top PSUs recruitment like ISRO, BARC, and DRDO GATE score 900+ Top IITs, NITs, IISc, and PSU recruitment. Aspirants can also opt for research work.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "19 hours ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Does IISc Bangalore offer M.Tech in Aerospace Engineering?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Indian Institute of Science",
-                "tag_url": "https://www.shiksha.com/university/indian-institute-of-science-bangalore-22350"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "vishnu harry",
-                  "profile_url": "https://www.shiksha.com/userprofile/74644951"
-                },
-                "answer_text": "When it comes to pursuing M.Tech in Aerospace Engineering, Lovely Professional University offers a pathway that blends scientific depth with real-world application. The programme explores advanced domains such as aerodynamics, propulsion, flight mechanics, aircraft structures, and computational analysis supported by modern laboratories and research-focused learning. With project-based training, industry exposure, and a strong technical foundation, it is designed to prepare engineers for dynamic careers in aviation, defence technology, space research, and emerging aerospace innovations.",
-                "upvotes": 0,
-                "downvotes": 0,
                 "posted_time": "Yesterday"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility criteria for M.Tech course at IIT Bhubaneswar?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "IIT Bhubaneswar - Indian Institute of Technology",
-                "tag_url": "https://www.shiksha.com/college/iit-bhubaneswar-indian-institute-of-technology-32717"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Vishakha Kumar",
-                  "profile_url": "https://www.shiksha.com/userprofile/78589452"
-                },
-                "answer_text": "IIT Bhubaneswar offers M.Tech course to students at the PG level. It is offered for 2 years in several specialisations. To be eligible for M.Tech at IIT Bhubaneswar, candidates must fulfil the eligibility criteria of the course. Candidates must have a BTech degree with at least 60% aggregate from a recognised university.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Who can apply for e-MTech at IIIT Kottayam?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Indian Institute of Information Technology, Kottayam",
-                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
-                },
-                "answer_text": "Aspirants need to complete BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for e-MTech programme at IIIT Kottayam.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "What is the eligibility for M.Tech for Working Professionals at IIIT Kottayam?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Indian Institute of Information Technology, Kottayam",
-                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
-                },
-                "answer_text": "Aspirants must pass BTech./BE/AMIE degree in any discipline or MCA or MSc/MS degree in CS/IT/Mathematics/ Physics/Statistics with a minimum of 60% aggregate to apply for M.Tech for Working Professionals programme at IIIT Kottayam. Candidates should also be currently employed. The institute only considers the employment acquired after the qualifying degree is awarded.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
-              }
-            ]
-          },
-          {
-            "question_text": "Who is eligible for Integrated M.Tech at IIIT Kottayam?",
-            "tags": [
-              {
-                "tag_name": "M.Tech",
-                "tag_url": "https://www.shiksha.com/tags/m-tech-tdp-414"
-              },
-              {
-                "tag_name": "Indian Institute of Information Technology, Kottayam",
-                "tag_url": "https://www.shiksha.com/college/indian-institute-of-information-technology-kottayam-53868"
-              }
-            ],
-            "followers": 0,
-            "answers": [
-              {
-                "author": {
-                  "name": "Nishtha Shukla",
-                  "profile_url": "https://www.shiksha.com/userprofile/31734869"
-                },
-                "answer_text": "Aspirants must complete Class 12 in Science with Mathematics/ Diploma or equivalent educational qualification to apply for Integrated M.Tech for Working Professionals programme. Aspirants must be employed in Industry/ R & D/ Academia at the time of applying.",
-                "upvotes": 0,
-                "downvotes": 0,
-                "posted_time": "2 days ago"
               }
             ]
           }
